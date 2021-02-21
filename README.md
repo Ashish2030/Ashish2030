@@ -68,11 +68,11 @@ ThetaHacks I           -  [Check out!](https://thetahacks.tech/)<br/>
 
 <br/>
 
-<a href="https://t.me/Dave_bhandari">
+<a href="#">
   <img align="left" alt="Dave's Telegram" width="22px" src="https://web.telegram.org/img/logo_share.png" />
 </a>
 
-<a href="https://github.com/Davekibh">
+<a href="https://github.com/Ashish2030">
   <img align="left" alt="Dave's Github" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
 </a>
 
