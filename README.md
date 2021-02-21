@@ -112,7 +112,7 @@ ThetaHacks I           -  [Check out!](https://thetahacks.tech/)<br/>
 
 ### My Projects ✨:
   
-<a href="https://github.com/Ashish2030/Mycart">
+<a href="https://github.com/ashish2030/Mycart">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashish2030&repo=Mycart&theme=tokyonight" />
 </a>
 
