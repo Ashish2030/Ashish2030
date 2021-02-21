@@ -9,8 +9,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ashish kumar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ashish kumar" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@ashishkumar_cse2" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="@ashishkumar_cse2" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ashish-kumar-2030" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ashish-kumar-2030" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/ashishkumar_cse2" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="ashishkumar_cse2" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ashish2030" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="ashish2030" height="30" width="40" /></a>
 </p>
 
