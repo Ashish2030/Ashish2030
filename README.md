@@ -19,12 +19,138 @@
 <a href="https://www.hackerrank.com/ashishkumar_cse2" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="ashishkumar_cse2" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ashish2030" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="ashish2030" height="30" width="40" /></a>
 </p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<details>
+<summary>
+Languages and Tools🛠:
+</summary>
+  <br/>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code> 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1024px-Bootstrap_logo.svg.png"></code>
+<code><img height="20" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></code>
+<code><img height="20" src="https://e7.pngegg.com/pngimages/46/626/png-clipart-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/en/d/d2/Sublime_Text_3_logo.png"></code>
+<code><img height="20" src="https://banner2.cleanpng.com/20181122/krs/kisspng-java-programming-language-selenium-computer-softwa-july-2-16-halab-4-dev-5bf78387a7bb41.028192901542947719687.jpg"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"></code>
+</details>
 
-<img src="https://github-readme-stats.vercel.app/api?username=ashish2030&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="ashish2030">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashish2030&count_private=true&theme=radical" alt="ashish2030" />
-<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashish2030&count_private=true&theme=radical" alt="ashish2030" />
+---
 
-----
+<details>
+<summary> Hackathons 💻: </summary>
+  
+<br/>
+
+Def Hacks | Global 2.0  -  [Check out!](https://defhacks.co/hackathons/global_2.0)<br/>
+Octa Hacks 3.0          -  [Check out!](https://octahacks.tech/)<br/>
+HackSRM 3.0             -  [Check out!](https://hacksrm.tech/)<br/>
+UniHack                 -  [Check out!](https://unihack.eu/)<br/>
+NextStep Hacks          -  [Check out!](https://nextstephacks.weebly.com/)<br/>
+Hack With CW            -  [Check out!](https://hackwithcw.tech/)<br/>
+ThetaHacks I           -  [Check out!](https://thetahacks.tech/)<br/>
+
+</details>
+
+---
+
+<details>
+<summary> Connect with me🤝: </summary>  
+
+<br/>
+
+<a href="https://t.me/Dave_bhandari">
+  <img align="left" alt="Dave's Telegram" width="22px" src="https://web.telegram.org/img/logo_share.png" />
+</a>
+
+<a href="https://github.com/Davekibh">
+  <img align="left" alt="Dave's Github" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
+</a>
+
+<a href="https://instagram.com/Dave_bhandari/">
+  <img align="left" alt="Dave's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" />
+</a>
+
+<a href="https://www.facebook.com/people/Dave-Bhandari/100005906536571">
+  <img align="left" alt="Dave's Facebook" width="22px" src="https://facebookbrand.com/wp-content/uploads/2019/04/f_logo_RGB-Hex-Blue_512.png?w=512&h=512" />
+</a>
+
+<a href="https://twitter.com/dave_bhandari">
+  <img align="left" alt="Dave's Twitter" width="22px" src="https://cdn2.iconfinder.com/data/icons/metro-uinvert-dock/256/Twitter_NEW.png" />
+</a>
+
+<a href="https://linkedin.com/in/dave-bhandari-4a74761a7/">
+  <img align="left" alt="Dave's Linkdein" width="22px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />
+</a>
+
+<br/>
+
+</details>
+
+---
+
+### Github Activity ✔:
+
+<a href="https://github.com/ashish2030">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashish2030&theme=tokyonight" />
+  </a>
+<a href="https://github.com/ashish2030">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=ashish2030&show_icons=true&theme=tokyonight&line_height=27" alt="Ashish2030"/>
+</a>
+<br/>
+<br/>
+<br/>
+
+### My Projects ✨:
+  
+<a href="https://github.com/Ashish2030/Mycart">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashish2030&repo=Mycart&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/Ashish2030/TodoList">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashish2030&repo=TodoList&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/Ashish2030/Hackerrank-30-days-code">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashish2030&repo=Hackerrank-30-days-code&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/Ashish2030/Packman-Game">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashish2030&repo=Packman-Game&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/Ashish2030/Data-Structures">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashish2030&repo=Data-Structures&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/Ashish2030/Tetris-Game">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashish2030&repo=Tetris-Game&theme=tokyonight" />
+</a>
+
+### My WakaTime Stats 📊:
+
+<!--START_SECTION:waka-->
+```text
+Week: 07 January, 2021 - 14 January, 2021
+
+HTML         2 hrs 3 mins    ████████████▒░░░░░░░░░░░░   49.78 % 
+JavaScript   1 hr 55 mins    ███████████▓░░░░░░░░░░░░░   46.45 % 
+Text         9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
+```
+<!--END_SECTION:waka-->
+
+<div align="center">
+  
+
+### Show ❤️ by 🌟 my [repositories](https://ashish2030?tab=repositories)!
+
+</div>
