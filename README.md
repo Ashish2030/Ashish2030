@@ -5,7 +5,7 @@
 
 ----
 <h1 align="center">Hi 👋, I'm Ashish Kumar</h1>
-<h3 align="center" font-family=" Miama">I am a Full Stack Developer</h3>
+<h3 align="center"> I'm <a href="https://freshidea.com/jonah/">Full Stack Developer</a> - <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashish2030&label=Profile%20views&color=0e75b6&style=flat" alt="ashish2030" /> </p>
 
