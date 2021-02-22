@@ -48,17 +48,16 @@ Languages and Tools🛠:
 ---
 
 <details>
-<summary> Hackathons 💻: </summary>
+<summary> Competitive Programming💻: </summary>
   
 <br/>
 
-Def Hacks | Global 2.0  -  [Check out!](https://defhacks.co/hackathons/global_2.0)<br/>
-Octa Hacks 3.0          -  [Check out!](https://octahacks.tech/)<br/>
-HackSRM 3.0             -  [Check out!](https://hacksrm.tech/)<br/>
-UniHack                 -  [Check out!](https://unihack.eu/)<br/>
-NextStep Hacks          -  [Check out!](https://nextstephacks.weebly.com/)<br/>
-Hack With CW            -  [Check out!](https://hackwithcw.tech/)<br/>
-ThetaHacks I           -  [Check out!](https://thetahacks.tech/)<br/>
+Hackerrank              -  [Check out!](https://www.hackerrank.com/ashishkumar_cse2)<br/>
+Leet Code               -  [Check out!](https://leetcode.com/ashish2030/)<br/>
+GeeksforGeeks           -  [Check out!](https://auth.geeksforgeeks.org/user/ashishkumarcse18/todo-done/)<br/>
+CodeQuiotent            -  [Check out!](https://codequotient.com/profile/ashish_kumar)<br/>
+CodeChef                -  [Check out!](https://www.codechef.com/users/ashu_535)<br/>
+CodeSignal              -  [Check out!](https://app.codesignal.com/profile/1075._a)<br/>
 
 </details>
 
@@ -69,12 +68,12 @@ ThetaHacks I           -  [Check out!](https://thetahacks.tech/)<br/>
 
 <br/>
 
-<a href="#">
-  <img align="left" alt="Dave's Telegram" width="22px" src="https://web.telegram.org/img/logo_share.png" />
+<a href="https://t.me/As_hu12">
+  <img align="left" alt="Ashish's Telegram" width="22px" src="https://web.telegram.org/img/logo_share.png" />
 </a>
 
 <a href="https://github.com/Ashish2030">
-  <img align="left" alt="Dave's Github" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
+  <img align="left" alt="Ashish's Github" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
 </a>
 
 <a href="https://www.instagram.com/kp__satyam/">
@@ -172,8 +171,5 @@ Sunday       101 commits    █████░░░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 <div align="center">
-  
-
 ### Show ❤️ by 🌟 my [repositories](https://ashish2030?tab=repositories)!
-
 </div>
