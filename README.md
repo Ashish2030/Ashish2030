@@ -120,8 +120,8 @@ CodeSignal              -  [Check out!](https://app.codesignal.com/profile/1075.
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashish2030&repo=TodoList&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/Ashish2030/Hackerrank-30-days-code">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashish2030&repo=Hackerrank-30-days-code&theme=tokyonight" />
+<a href="https://github.com/Ashish2030/Hackerrank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashish2030&repo=Hackerrank&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/Ashish2030/pacman-Game">
