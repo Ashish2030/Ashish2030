@@ -173,6 +173,6 @@ Sunday       101 commits    █████░░░░░░░░░░░░�
 <div align="center">
   
   
-### Show ❤️ by 🌟 my [repositories](https://ashish2030?tab=repositories)!
+### Show ❤️ by 🌟 my [repositories](https://github.com/Ashish2030?tab=repositories)!
 
 </div>
