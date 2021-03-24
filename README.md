@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" width="70%" />
 </p>
 
 
 ----
-<h1 align="center">Hi 👋, I'm Ashish Kumar</h1>
+<h1 align="center">Hi 👋, I'm Ashish Kumar<img src="https://github.com/Ashish2030/Ashish2030/blob/main/image/Developer.gif?raw=true" width="65px"></h1>
 <h3 align="center"> I'm <a href="https://freshidea.com/jonah/">Full Stack Developer</a> - <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
 <p ><img src="https://i.imgur.com/ahdGDEy.gif" width="500" height="200"></p>
 
