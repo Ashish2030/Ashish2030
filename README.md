@@ -4,7 +4,7 @@
 
 
 ----
-  <h1 align="center"> <img src="https://github.com/Ashish2030/Ashish2030/blob/main/image/icon2.png" width="9%">Hi 👋, I'm Ashish Kumar<img src="https://github.com/Ashish2030/Ashish2030/blob/main/image/Developer.gif?raw=true" width="60px"></h1>
+  <h1 align="center"> <img src="https://github.com/Ashish2030/Ashish2030/blob/main/image/icon2.png" width="9%">𝐇𝐢 👋, 𝐈'𝐦 𝐀𝐬𝐡𝐢𝐬𝐡 𝐊𝐮𝐦𝐚𝐫<img src="https://github.com/Ashish2030/Ashish2030/blob/main/image/Developer.gif?raw=true" width="60px"></h1>
 
 
 
