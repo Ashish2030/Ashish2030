@@ -17,7 +17,7 @@
 
 <table cellpadding="0" cellspacing="0" border="0">
   <tr>
-    <td><p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashish2030&theme=onedark"                alt="ashish2030" /></a> </p></td>
+    <td><p align="left"> <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=ashish2030&theme=onedark"                alt="ashish2030" /></a> </p></td>
     <td><img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 </td>
   </tr>
