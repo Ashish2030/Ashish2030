@@ -11,12 +11,12 @@
 <h3 align="center"><img src="https://i.imgur.com/ahdGDEy.gif" width="18%"> I'm Full Stack Developer -<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
  
                                                           
-  
+ <p align="right"> <img src="https://github.com/Ashish2030/Ashish2030/blob/main/image/a1.gif"/></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashish2030&label=Profile%20views&color=0e75b6&style=flat" alt="ashish2030" /> </p>
 
 <table cellpadding="0" cellspacing="0" border="0">
   <tr>
-    <td><p align="left"> <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=ashish2030&theme=onedark"                alt="ashish2030" /></a> </p></td>
+    <td><p align="left"> <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=ashish2030&theme=onedark"        alt="ashish2030" /></a> </p></td>
     <td><img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 </td>
   </tr>
