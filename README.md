@@ -4,14 +4,14 @@
 
 
 ----
-  <h1 align="center"> 𝐇𝐢<img src="https://github.com/Ashish2030/Ashish2030/blob/main/image/Developer.gif?raw=true" width="50px"> 𝐈'𝐦 𝐀𝐬𝐡𝐢𝐬𝐡 𝐊𝐮𝐦𝐚𝐫</h1>
+  <h1 align="center"><img src="https://github.com/Ashish2030/Ashish2030/blob/main/image/black1.png" width="15%"/>𝐇𝐢<img src="https://github.com/Ashish2030/Ashish2030/blob/main/image/Developer.gif?raw=true" width="50px"> 𝐈'𝐦 𝐀𝐬𝐡𝐢𝐬𝐡 𝐊𝐮𝐦𝐚𝐫</h1>
 
 
 
 <!--- <h3 align="center"><img src="https://i.imgur.com/ahdGDEy.gif" width="18%"> I'm Full Stack Developer -<img  src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3> -->
  
                                                          
- <p align="right"><img src="https://github.com/Ashish2030/Ashish2030/blob/main/image/black1.png" width="15%"/>  <img src="https://github.com/Ashish2030/Ashish2030/blob/main/image/a1.gif"/></p>
+ <p align="right"><img src="https://github.com/Ashish2030/Ashish2030/blob/main/image/p1.png" width="15%"/> <img src="https://github.com/Ashish2030/Ashish2030/blob/main/image/a1.gif"/></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashish2030&label=Profile%20views&color=0e75b6&style=flat" alt="ashish2030" /> </p>
 
 <table cellpadding="0" cellspacing="0" border="0">
