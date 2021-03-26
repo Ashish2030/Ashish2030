@@ -168,6 +168,4 @@ I'm a Night 🦉
   
 ### Show ❤️ by 🌟 my [repositories](https://github.com/Ashish2030?tab=repositories)!
 
-<p align="center"> <img src="https://github.com/Ashish2030/Ashish2030/blob/main/image/The%20End.gif" alt="ashish2030" width="700px"  height="350px"/> </p>
-
 </div>
