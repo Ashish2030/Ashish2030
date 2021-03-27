@@ -23,7 +23,7 @@
   </table>
 
 
-- 📫 How to reach me **kumarashish79924@gmail.com**
+- 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 **kumarashish79924@gmail.com**
 
 ---
 
