@@ -29,7 +29,7 @@
 
 <details>
 <summary>
-ʟᴀɴɢᴜᴀɢᴇꜱ ᴀɴᴅ ᴛᴏᴏʟꜱ 🛠:
+𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝚊𝚗𝚍 𝚃𝚘𝚘𝚕𝚜 🛠:
 </summary>
   <br/>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
@@ -53,7 +53,7 @@
 ---
 
 <details>
-<summary> Competitive Programming💻: </summary>
+<summary> 𝙲𝚘𝚖𝚙𝚎𝚝𝚒𝚝𝚒𝚟𝚎 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐💻: </summary>
   
 <br/>
 
@@ -69,7 +69,7 @@ CodeSignal              -  [Check out!](https://app.codesignal.com/profile/1075.
 ---
 
 <details>
-<summary> Connect with me🤝: </summary>  
+<summary> 𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚠𝚒𝚝𝚑 𝚖𝚎🤝: </summary>  
 
 <br/>
 
