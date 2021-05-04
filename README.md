@@ -152,6 +152,8 @@ CodeSignal              -  [Check out!](https://app.codesignal.com/profile/1075.
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashish2030&repo=Tetris-Game&theme=tokyonight" />
 </a>
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ashish2030) 
+
 ### My WakaTime Stats 📊:
 
 <!--START_SECTION:waka-->
