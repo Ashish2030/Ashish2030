@@ -178,7 +178,7 @@ I'm a Night 🦉
 ```
 <!--END_SECTION:waka-->
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ashish2030) 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ashish2030&theme=tokyonight) 
 <div align="center">
   
   
