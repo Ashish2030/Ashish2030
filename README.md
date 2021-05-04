@@ -128,7 +128,7 @@ CodeSignal              -  [Check out!](https://app.codesignal.com/profile/1075.
 ### My Projects ✨:
   
 <a href="https://github.com/ashish2030/Mycart-website">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashish2030&repo=Mycart-website&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashish2030&repo=Mycart-website&theme=tokyonight&line_height=30" />
 </a>
 
 <a href="https://github.com/Ashish2030/TodoList">
