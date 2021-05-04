@@ -124,8 +124,6 @@ CodeSignal              -  [Check out!](https://app.codesignal.com/profile/1075.
 <br/>
 
 ![Ashish's github streak](https://github-readme-streak-stats.herokuapp.com/?user=ashish2030&theme=tokyonight)
-<br/>
-
 
 ### My Projects ✨:
   
