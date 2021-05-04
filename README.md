@@ -119,10 +119,10 @@ CodeSignal              -  [Check out!](https://app.codesignal.com/profile/1075.
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashish2030&theme=tokyonight" />
   </a>
 <a href="https://github.com/ashish2030">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=ashish2030&show_icons=true&theme=tokyonight&line_height=25" alt="Ashish2030"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=ashish2030&show_icons=true&theme=tokyonight&line_height=30" alt="Ashish2030"/>
 </a>
 
-![Dilip's github streak](https://github-readme-streak-stats.herokuapp.com/?user=ashish2030&&theme=tokyonight&line_height=27)
+![Ashish's github streak](https://github-readme-streak-stats.herokuapp.com/?user=ashish2030&&theme=tokyonight&line_height=27)
 <br/>
 <br/>
 <br/>
