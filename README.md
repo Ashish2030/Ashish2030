@@ -156,7 +156,7 @@ CodeSignal              -  [Check out!](https://app.codesignal.com/profile/1075.
 
 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ashish2030) 
+
 
 ### My WakaTime Stats 📊:
 
@@ -180,6 +180,7 @@ I'm a Night 🦉
 ```
 <!--END_SECTION:waka-->
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ashish2030) 
 <div align="center">
   
   
