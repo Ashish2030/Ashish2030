@@ -122,9 +122,7 @@ CodeSignal              -  [Check out!](https://app.codesignal.com/profile/1075.
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ashish2030&show_icons=true&theme=tokyonight&line_height=40" alt="Ashish2030"/>
 </a>
 
-![Ashish's github streak](https://github-readme-streak-stats.herokuapp.com/?user=ashish2030&&theme=tokyonight&line_height=27)
-<br/>
-<br/>
+![Ashish's github streak](https://github-readme-streak-stats.herokuapp.com/?user=ashish2030&&theme=tokyonight&line_height=35)
 <br/>
 <br/>
 
