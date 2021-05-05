@@ -15,14 +15,17 @@
  <p align="right"><img src="https://github.com/Ashish2030/Ashish2030/blob/main/image/dart.png" width="20%"/>  <img src="https://github.com/Ashish2030/Ashish2030/blob/main/image/a1.gif"/></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashish2030&label=Profile%20views&color=0e75b6&style=flat" alt="ashish2030" /> </p>
 
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.9%20million%20lines%20of%20code-blue)
+
 
 
 ![age](https://img.shields.io/badge/age-21-blue)
 ![focus](https://img.shields.io/badge/focus-backend-brightgreen)
+[![GitHub last commit](https://img.shields.io/github/last-commit/ashish2030/Hackerrank)](https://github.com/ashish2030/Hackerrank/commits/master)
+[![GitHub repo size](https://img.shields.io/github/repo-size/ashish2030/Hackerrank)](https://github.com/ashish2030/Hackerrank/archive/master.zip)
 ![living](https://img.shields.io/badge/living-Bihar-3c9)
 
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.9%20million%20lines%20of%20code-blue)
 
 <table cellpadding="0" cellspacing="0" border="0">
   <tr>
