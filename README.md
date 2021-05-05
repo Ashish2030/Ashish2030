@@ -21,9 +21,9 @@
 
 ![age](https://img.shields.io/badge/age-21-blue)
 ![focus](https://img.shields.io/badge/focus-backend-brightgreen)
+![living](https://img.shields.io/badge/living-Bihar-3c9)
 [![GitHub last commit](https://img.shields.io/github/last-commit/ashish2030/Hackerrank)](https://github.com/ashish2030/Hackerrank/commits/master)
 [![GitHub repo size](https://img.shields.io/github/repo-size/ashish2030/Hackerrank)](https://github.com/ashish2030/Hackerrank/archive/master.zip)
-![living](https://img.shields.io/badge/living-Bihar-3c9)
 
 
 
