@@ -27,6 +27,8 @@
 
 
 
+
+
 <table cellpadding="0" cellspacing="0" border="0">
   <tr>
     <td><p align="left"> <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=ashish2030&theme=onedark"        alt="ashish2030" /></a> </p></td>
@@ -180,6 +182,23 @@ I'm a Night 🦉
 
 ```
 <!--END_SECTION:waka-->
+
+
+ <p align="center">
+ <a href="https://github.com/ashish2030/Ashish2030/fork" target="blank">
+ <img src="https://img.shields.io/github/forks/ashish2030/Ashish2030?style=flat-square" alt="Ashish2030 forks"/>
+</a>
+<a href="https://github.com/ashish2030/Ashish2030/stargazers" target="blank">
+<img src="https://img.shields.io/github/stars/ashish2030/Ashish2030?style=flat-square" alt="Ashish2030"/>
+</a>
+<a href="https://github.com/ashish2030/Ashish2030/issues" target="blank">
+<img src="https://img.shields.io/github/issues/ashish2030/Ashish2030?style=flat-square" alt="Ashish2030"/>
+</a>
+<a href="https://github.com/ashish2030/Ashish2030/pulls" target="blank">
+<img src="https://img.shields.io/github/issues-pr/ashish2030/Ashish2030?style=flat-square" alt="Ashish2030"/>
+</a>
+</p>
+
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ashish2030&theme=tokyonight) 
 <div align="center">
