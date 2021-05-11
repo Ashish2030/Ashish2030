@@ -20,7 +20,7 @@
 
 
 ![age](https://img.shields.io/badge/age-21-blue)
-[![GitHub repo size](https://img.shields.io/github/repo-size/ashish2030/Hackerrank)](https://github.com/ashish2030/Hackerrank/archive/master.zip)
+[![GitHub repo size](https://img.shields.io/github/repo-size/ashish2030/Ashish2030)](https://github.com/ashish2030/Ashish2030/archive/master.zip)
 ![focus](https://img.shields.io/badge/focus-backend-brightgreen)
 [![GitHub last commit](https://img.shields.io/github/last-commit/ashish2030/Hackerrank)](https://github.com/ashish2030/Hackerrank/commits/master)
 ![living](https://img.shields.io/badge/living-Bihar-3c9)
