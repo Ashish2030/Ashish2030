@@ -217,7 +217,7 @@ I'm a Night 🦉
 <h1 align="center">𝐀𝐛𝐨𝐮𝐭 𝐦𝐞👨🏫::</h1>
 
 
-| <img src = "https://github.com/Ashish2030/Ashish2030/blob/main/1.png" width = 500 height = 450> | <img src = "https://github.com/Ashish2030/Ashish2030/blob/main/circle-cropped123.png" width = 500 height = 450> 
+| <img src = "https://github.com/Ashish2030/Ashish2030/blob/main/1.png" width = 500 height = 400> | <img src = "https://github.com/Ashish2030/Ashish2030/blob/main/circle-cropped123.png" width = 500 height = 400> 
 | :------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------: 
 |                    [ɪɴꜱᴛᴀɢʀᴀᴍ](https://github.com/Ashish2030)\*                   |     [ʟɪɴᴋᴇᴅɪɴ](https://www.linkedin.com/in/ashish-kumar-2030/)\*     |
 
