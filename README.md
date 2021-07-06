@@ -3,7 +3,7 @@
 </p>
 
 
-<h1 align="center">𝐀𝐛𝐨𝐮𝐭 𝐦𝐞👨🏫::</h1>
+<h1 align="center">𝐈𝐧𝐭𝐫𝐨𝐝𝐮𝐜𝐭𝐢𝐨𝐧</h1>
 
 
 | <img src = "https://github.com/Ashish2030/Ashish2030/blob/main/1.png" width = 500 height = 390> | <img src = "https://github.com/Ashish2030/Ashish2030/blob/main/circle-cropped123.png" width = 500 height = 390> 
