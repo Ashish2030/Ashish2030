@@ -132,7 +132,7 @@ CodeSignal              -  [Check out!](https://app.codesignal.com/profile/1075.
   </a> -->
   
   <a href="https://github.com/ashish2030">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashish2030&langs_count=8&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashish2030&langs_count=100&theme=tokyonight" />
 </a>
 &emsp;&emsp;
 <a href="https://github.com/ashish2030">
