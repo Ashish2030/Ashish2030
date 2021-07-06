@@ -135,7 +135,8 @@ CodeSignal              -  [Check out!](https://app.codesignal.com/profile/1075.
   
   <table cellpadding="0" cellspacing="0" border="0">
   <tr>
-    <td rowspan="2"><p align="left">  <a href="https://github.com/ashish2030">
+    <td rowspan="2">
+      <p align="left"> <a href="https://github.com/ashish2030">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashish2030&langs_count=100&theme=tokyonight" />
 </a> </p></td>
     <td><a href="https://github.com/ashish2030">
@@ -155,10 +156,7 @@ CodeSignal              -  [Check out!](https://app.codesignal.com/profile/1075.
 
 &emsp;&emsp;
 
-<br/>
-&nbsp;
 
-![Ashish's github streak](https://github-readme-streak-stats.herokuapp.com/?user=ashish2030&theme=tokyonight&line_height=20)
 
 ### My Projects ✨:
   
