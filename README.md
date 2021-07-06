@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png " width=80%/>
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png " width=70%/>
 </p>
 
 
