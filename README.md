@@ -45,6 +45,7 @@
   </table>
 
 
+
 - 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 **kumarashish79924@gmail.com**
 
 ---
@@ -191,31 +192,7 @@ CodeSignal              -  [Check out!](https://app.codesignal.com/profile/1075.
 </a>
 <br/>
 
-
-
-
-
-### My WakaTime Stats 📊:
-
-<!--START_SECTION:waka-->
-```text
-Week: 07 January, 2021 - 14 January, 2021
-
-HTML         2 hrs 3 mins    ████████████▒░░░░░░░░░░░░   49.78 % 
-JavaScript   1 hr 55 mins    ███████████▓░░░░░░░░░░░░░   46.45 % 
-Text         9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
-```
-<!--END_SECTION:waka-->
-I'm a Night 🦉
-<!--START_SECTION:waka-->
-```text
-🌞 Morning    71 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.64% 
-🌆 Daytime    153 commits    ████████░░░░░░░░░░░░░░░░░   31.55% 
-🌃 Evening    150 commits    ███████░░░░░░░░░░░░░░░░░░   30.93% 
-🌙 Night      111 commits    █████░░░░░░░░░░░░░░░░░░░░   22.89%
-
-```
-<!--END_SECTION:waka-->
+<br/>
 
 
  <p align="center">
@@ -234,6 +211,13 @@ I'm a Night 🦉
 </p>
 
 <a href="https://github.com/ashish2030/ashish2030"><img alt=" Ashish's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ashish2030&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
+
+
+
+![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/Ashish2030/Ashish2030/blob/main/github-contribution-grid-snake.svg)
+
+
 
 <div align="center">
  
