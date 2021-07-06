@@ -131,13 +131,30 @@ CodeSignal              -  [Check out!](https://app.codesignal.com/profile/1075.
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashish2030&theme=tokyonight" />
   </a> -->
   
-  <a href="https://github.com/ashish2030">
+  
+  
+  <table cellpadding="0" cellspacing="0" border="0">
+  <tr>
+    <td rowspan="2"><p align="left">  <a href="https://github.com/ashish2030">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashish2030&langs_count=100&theme=tokyonight" />
-</a>
+</a> </p></td>
+    <td><a href="https://github.com/ashish2030">
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ashish2030&show_icons=true&theme=tokyonight&line_height=33" alt="Ashish2030"/>
+</a> </td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/ashish2030">
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashish2030&theme=tokyonight&line_height=20" alt="Ashish2030"/>
+</a></td>
+  </tr>
+  </table>
+  
+  
+  
+  
+
 &emsp;&emsp;
-<a href="https://github.com/ashish2030">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ashish2030&show_icons=true&theme=tokyonight&line_height=40" alt="Ashish2030"/>
-</a>
+
 <br/>
 &nbsp;
 
