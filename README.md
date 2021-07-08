@@ -3,7 +3,7 @@
 </p>
 
 
-<h1 align="center">𝐈𝐧𝐭𝐫𝐨𝐝𝐮𝐜𝐭𝐢𝐨𝐧</h1>
+<h1 align="center"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px"> 𝐈𝐧𝐭𝐫𝐨𝐝𝐮𝐜𝐭𝐢𝐨𝐧</h1>
 
 
 | <img src = "https://github.com/Ashish2030/Ashish2030/blob/main/1.png" width = 60% > | <img src = "https://github.com/Ashish2030/Ashish2030/blob/main/circle-cropped123.png" width = 85%> 
@@ -225,7 +225,7 @@ CodeSignal              -  [Check out!](https://app.codesignal.com/profile/1075.
 
 <div align="center">
  
-### Show ❤️ by  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="26px"> my [repositories](https://github.com/Ashish2030?tab=repositories)!
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">Show ❤️ by  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="26px"> my [repositories](https://github.com/Ashish2030?tab=repositories)!
 <p align="Center" ><img src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966" height="230px" width ="230px"></p>
 
 </div>
