@@ -91,8 +91,32 @@ CodeSignal              -  [Check out!](https://app.codesignal.com/profile/1075.
 </details>
 
 ---
+<!-- start work experience section -->
+<details>
+<summary><b> My Work Experience :point_right: </b></summary>
+<table>
+  <thead>
+    <tr>
+      <th>Job Name</th>
+      <th>Roles & responsibilities</th>
+      <th>Duration</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Problem Setter(Procode)</b></td>
+      <td>Setting Problems ranging from easy to medium and hard levels</td>
+      <td>March 2020 - Present</td>
+    </tr>
+  </tbody>
+</table>
+</details>
+<!-- end work experience section -->
+
+---
 
 <details>
+  
 <summary> 𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚠𝚒𝚝𝚑 𝚖𝚎🤝: </summary>  
 
 <br/>
