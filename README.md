@@ -299,9 +299,18 @@ CodeSignal              -  [Check out!](https://app.codesignal.com/profile/1075.
 
 <!-- ![Metrics](https://metrics.lecoq.io/ashish2030?template=classic&isocalendar=1&languages=1&introduction=1&isocalendar.duration=halfyear&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&introduction.title=false&config.timezone=Asia%2FCalcutta) -->
 
+
 <div align="center">
  
 ### <img src="https://github.com/Ashish2030/Ashish2030/blob/main/image/Rocket.gif" width="18px">Show ❤️ by  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="26px"> my [repositories](https://github.com/Ashish2030?tab=repositories)!
 <p align="Center" ><img src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966" height="230px" width ="230px"></p>
 
 </div>
+<h3 align="center">Connect with me</h3>
+<p align="center">
+  <a href= "https://www.linkedin.com/in/bayrem-gharssellaoui/"><img src="https://img.icons8.com/dusk/48/000000/linkedin.png"/></a>
+  <a href= "https://medium.com/@garssallaoui.bayrem"><img src="https://img.icons8.com/dusk/48/000000/medium-new.png"/></a>
+  <a href= "https://twitter.com/kaizoku_ouh"><img src="https://img.icons8.com/dusk/48/000000/twitter.png"/></a>
+  <a href= "https://signal.org"><img src="https://img.icons8.com/color/48/000000/signal-app.png"/></a>
+  <a href= "https://www.youtube.com/channel/UCj_aGuryykHGnmFXHa5kzLQ"><img src="https://img.icons8.com/dusk/48/000000/youtube--v2.png"/></a>
+</p>
