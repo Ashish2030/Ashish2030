@@ -27,7 +27,7 @@
 
 
  
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/ashish2030/&title=Profile%20Views)
+<!-- ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/ashish2030/&title=Profile%20Views) -->
 
 ![age](https://img.shields.io/badge/age-21-blue)
 [![GitHub repo size](https://img.shields.io/github/repo-size/ashish2030/Ashish2030)](https://github.com/ashish2030/Ashish2030/archive/master.zip)
