@@ -20,10 +20,13 @@
  
                                                          
  <p align="right"><img src="https://github.com/Ashish2030/Ashish2030/blob/main/image/dart.png" width="20%"/>  <img src="https://github.com/Ashish2030/Ashish2030/blob/main/image/a1.gif"/></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashish2030&label=Profile%20views&color=0e75b6&style=flat" alt="ashish2030" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashish2030&label=Profile%20views&color=0e75b6&style=flat" alt="ashish2030" /> 
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.9%20million%20lines%20of%20code-blue)
 
+
+
+ 
 
 
 ![age](https://img.shields.io/badge/age-21-blue)
@@ -32,11 +35,12 @@
 ![focus](https://img.shields.io/badge/focus-backend-brightgreen)
 [![GitHub last commit](https://img.shields.io/github/last-commit/ashish2030/Hackerrank)](https://github.com/ashish2030/Hackerrank/commits/master)
 ![living](https://img.shields.io/badge/living-Bihar-3c9)
-
+<img src="https://img.shields.io/badge/Os-Debian-a80030"/>
+  
 ![](https://img.shields.io/badge/Machine%20Learning-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/Core%20Java-%3C%2F%3E-yellow) ![](https://img.shields.io/badge/Python-%7C-0%2C%2022%2C%20100) ![](https://img.shields.io/badge/Business%20English-%7C-yellowgreen) ![](https://img.shields.io/badge/SQL-%7C-orange) ![](https://img.shields.io/badge/Cloud%20Developer-%7C-blue)<a href="https://github.com/ashish2030">
 </a>
 ![Status](https://img.shields.io/badge/Status%20-Single%20-blue)
-
+<a href="https://github.com/kaizoku-oh?tab=repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a>
 
 
 <table cellpadding="0" cellspacing="0" border="0">
