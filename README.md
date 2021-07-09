@@ -3,7 +3,7 @@
 </p>
 
 
-<h1 align="center"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px"> 𝐈𝐧𝐭𝐫𝐨𝐝𝐮𝐜𝐭𝐢𝐨𝐧</h1>
+<h1 align="center"><img src="https://i.pinimg.com/originals/00/4b/17/004b173f6e3d6843df10114e087f30a8.gif" width=6% /> 𝐈𝐧𝐭𝐫𝐨𝐝𝐮𝐜𝐭𝐢𝐨𝐧</h1>
 
 
 | <img src = "https://github.com/Ashish2030/Ashish2030/blob/main/1.png" width = 60% > | <img src = "https://github.com/Ashish2030/Ashish2030/blob/main/circle-cropped123.png" width = 85%> 
