@@ -259,7 +259,10 @@ CodeSignal              -  [Check out!](https://app.codesignal.com/profile/1075.
 </details>
 
 ---
+#### Certifications
 
+<code><img height= "40" alt="certified scrum master" src="https://i.ibb.co/m5RM2Sb/csm.jpg"></code>
+<code><img height= "40" alt="udacity android nanodegree" src="https://i.ibb.co/G355Gq2/udacity.jpg"></code>
 ### Github Activity ✔:
 
 <!-- <a href="https://github.com/ashish2030">
@@ -327,6 +330,7 @@ CodeSignal              -  [Check out!](https://app.codesignal.com/profile/1075.
 <br/>
 
 <br/>
+
 
 
  <p align="center">
