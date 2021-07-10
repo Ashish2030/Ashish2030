@@ -33,7 +33,7 @@
 [![GitHub repo size](https://img.shields.io/github/repo-size/ashish2030/Ashish2030)](https://github.com/ashish2030/Ashish2030/archive/master.zip)
 <a href="https://github.com/ashish2030/"><img src="https://img.shields.io/github/followers/ashish2030?style=flat-square?color=%234CC61E&label=GitHub%20Followers%20"/></a>
 ![focus](https://img.shields.io/badge/focus-backend-brightgreen)
-[![GitHub last commit](https://img.shields.io/github/last-commit/ashish2030/Hackerrank)](https://github.com/ashish2030/Hackerrank/commits/master)
+[![GitHub last commit](https://img.shields.io/github/last-commit/ashish2030/ashish2030)](https://github.com/ashish2030/ashish2030/commits/master)
 ![living](https://img.shields.io/badge/living-Bihar-3c9)
 <img src="https://img.shields.io/badge/Os-Debian-a80030"/>
   
