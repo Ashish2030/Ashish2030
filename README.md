@@ -99,7 +99,7 @@ CodeSignal              -  [Check out!](https://app.codesignal.com/profile/1075.
 ---
 <!-- start work experience section -->
 <details>
-<summary><b> My Work Experience :point_right: </b></summary>
+<summary> My Work Experience :point_right: </summary>
 <table>
   <thead>
     <tr>
