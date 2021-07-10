@@ -307,7 +307,7 @@ CodeSignal              -  [Check out!](https://app.codesignal.com/profile/1075.
 <div align="center">
  
 ### <img src="https://github.com/Ashish2030/Ashish2030/blob/main/image/Rocket.gif" width="18px">Show ❤️ by  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="26px"> my [repositories](https://github.com/Ashish2030?tab=repositories)!
-<p align="Center" ><img src="https://github.com/Ashish2030/Ashish2030/blob/main/circle-cropped__3_-removebg-preview.png" height="230px" width ="230px"></p>
+<p align="Center" ><img src="https://github.com/Ashish2030/Ashish2030/blob/main/p.png" width="20%"></p>
 
 </div>
 <h3 align="center">Connect with me</h3>
