@@ -195,7 +195,7 @@ My website has quite a few of them, here's a list of the public ones:
 
 |Organizer|Organizer|Mentor|
 |---------|---------|------|
-|<a href="https://kotlinmumbai.tech"><img src="https://github.com/ashish2030/ashish2030/blob/master/communities/kotlin_mumbai.png" height="100px"></a>|<a href="https://community.mozilla.org/groups/mozilla-mumbai/"><img src="https://github.com/ashish2030/ashish2030/blob/master/communities/mozilla_mumbai.png" height="100px"></a>|<a href="https://www.meetup.com/tfugmumbai/"><img src="https://github.com/ashish2030/ashish2030/blob/master/communities/tfug_mumbai.png" height="100px"></a>|
+|<a href="https://kotlinmumbai.tech"><img src="https://github.com/Ashish2030/Ashish2030/blob/main/communities/kotlin_mumbai.png" height="100px"></a>|<a href="https://community.mozilla.org/groups/mozilla-mumbai/"><img src="https://github.com/Ashish2030/Ashish2030/blob/main/communities/mozilla_mumbai.png" height="100px"></a>|<a href="https://www.meetup.com/tfugmumbai/"><img src="https://github.com/Ashish2030/Ashish2030/blob/main/communities/tfug_mumbai.png" height="100px"></a>|
 
 <table cellpadding="0" cellspacing="0" border="0">
   <tr>
