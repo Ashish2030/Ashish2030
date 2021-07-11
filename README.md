@@ -163,18 +163,13 @@ My website has quite a few of them, here's a list of the public ones:
 </details> -->
 
 <!--- <h3 align="center"><img src="https://i.imgur.com/ahdGDEy.gif" width="18%"> I'm Full Stack Developer -<img  src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3> -->
- 
+ <!-- ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/ashish2030/&title=Profile%20Views) -->
                                                          
- <p align="right"><img src="https://github.com/Ashish2030/Ashish2030/blob/main/image/dart.png" width="20%"/>  <img src="https://github.com/Ashish2030/Ashish2030/blob/main/image/a1.gif"/></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashish2030&label=Profile%20views&color=0e75b6&style=flat" alt="ashish2030" /> 
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.9%20million%20lines%20of%20code-blue)
+ <p align="right" ><img src="https://github.com/Ashish2030/Ashish2030/blob/main/image/dart.png" width="20%"/>  <img src="https://github.com/Ashish2030/Ashish2030/blob/main/image/a1.gif"/></p>
 
 
-
- 
-<!-- ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/ashish2030/&title=Profile%20Views) -->
-
+![Profile Count](https://komarev.com/ghpvc/?username=ashish2030&label=Profile%20views&color=0e75b6&style=flat)<br>
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.9%20million%20lines%20of%20code-blue)<br>
 ![age](https://img.shields.io/badge/age-21-blue)
 [![GitHub repo size](https://img.shields.io/github/repo-size/ashish2030/Ashish2030)](https://github.com/ashish2030/Ashish2030/archive/master.zip)
 <a href="https://github.com/ashish2030/"><img src="https://img.shields.io/github/followers/ashish2030?style=flat-square?color=%234CC61E&label=GitHub%20Followers%20"/></a>
@@ -184,12 +179,23 @@ My website has quite a few of them, here's a list of the public ones:
 <img src="https://img.shields.io/badge/Os-Debian-a80030"/>
 ![License](https://img.shields.io/github/license/ashish2030/ashish2030?style=flat)
 [![Medium](https://github.com/Ashish2030/Ashish2030/blob/main/badgess/medium.svg)](https://medium.com/@ashishkumar.cse18)
-  
 ![](https://img.shields.io/badge/Machine%20Learning-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/Core%20Java-%3C%2F%3E-yellow) ![](https://img.shields.io/badge/Python-%7C-0%2C%2022%2C%20100) ![](https://img.shields.io/badge/Business%20English-%7C-yellowgreen) ![](https://img.shields.io/badge/SQL-%7C-orange) ![](https://img.shields.io/badge/Cloud%20Developer-%7C-blue)<a href="https://github.com/ashish2030">
 </a>
 ![Status](https://img.shields.io/badge/Status%20-Single%20-blue)
 <a href="https://github.com/kaizoku-oh?tab=repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a>
 [![Stackoverflow](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/stackoverflow.svg)](https://stackoverflow.com/users/16422925/ashish-kumar)
+  
+### My top 10 technologies-
+
+|![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/python.png)|![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/tensorflow.svg)|![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/gcp.png)|![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/azure.png)|![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/c++.png)|
+|---|---|---|---|---|
+|![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/android.png)|![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/javascript.svg)|![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/node.svg)|![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/docker.svg)|![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/arduino.png)|
+
+### Tech communities
+
+|Organizer|Organizer|Mentor|
+|---------|---------|------|
+|<a href="https://kotlinmumbai.tech"><img src="https://github.com/Rishit-dagli/Rishit-dagli/blob/master/communities/kotlin_mumbai.png" height="100px"></a>|<a href="https://community.mozilla.org/groups/mozilla-mumbai/"><img src="https://github.com/Rishit-dagli/Rishit-dagli/blob/master/communities/mozilla_mumbai.png" height="100px"></a>|<a href="https://www.meetup.com/tfugmumbai/"><img src="https://github.com/Rishit-dagli/Rishit-dagli/blob/master/communities/tfug_mumbai.png" height="100px"></a>|
 
 <table cellpadding="0" cellspacing="0" border="0">
   <tr>
