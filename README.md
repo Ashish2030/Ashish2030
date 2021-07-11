@@ -182,13 +182,14 @@ My website has quite a few of them, here's a list of the public ones:
 [![GitHub last commit](https://img.shields.io/github/last-commit/ashish2030/ashish2030)](https://github.com/ashish2030/ashish2030/commits/master)
 ![living](https://img.shields.io/badge/living-Bihar-3c9)
 <img src="https://img.shields.io/badge/Os-Debian-a80030"/>
-  ![License](https://img.shields.io/github/license/ashish2030/ashish2030?style=flat)
+![License](https://img.shields.io/github/license/ashish2030/ashish2030?style=flat)
+[![Medium](https://github.com/Ashish2030/Ashish2030/blob/main/badgess/medium.svg)](https://medium.com/@ashishkumar.cse18)
   
 ![](https://img.shields.io/badge/Machine%20Learning-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/Core%20Java-%3C%2F%3E-yellow) ![](https://img.shields.io/badge/Python-%7C-0%2C%2022%2C%20100) ![](https://img.shields.io/badge/Business%20English-%7C-yellowgreen) ![](https://img.shields.io/badge/SQL-%7C-orange) ![](https://img.shields.io/badge/Cloud%20Developer-%7C-blue)<a href="https://github.com/ashish2030">
 </a>
 ![Status](https://img.shields.io/badge/Status%20-Single%20-blue)
 <a href="https://github.com/kaizoku-oh?tab=repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a>
-
+[![Stackoverflow](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/stackoverflow.svg)](https://stackoverflow.com/users/16422925/ashish-kumar)
 
 <table cellpadding="0" cellspacing="0" border="0">
   <tr>
