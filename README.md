@@ -183,7 +183,7 @@ My website has quite a few of them, here's a list of the public ones:
 </a>
 ![Status](https://img.shields.io/badge/Status%20-Single%20-blue)
 <a href="https://github.com/kaizoku-oh?tab=repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a>
-[![Stackoverflow](https://github.com/ashish2030/ashish2030/blob/master/badges/stackoverflow.svg)](https://stackoverflow.com/users/16422925/ashish-kumar)
+[![Stackoverflow](https://github.com/Ashish2030/Ashish2030/blob/main/badgess/stackoverflow.svg)](https://stackoverflow.com/users/16422925/ashish-kumar)
   
 ### My top 10 technologies-
 
