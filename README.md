@@ -361,6 +361,7 @@ CodeSignal              -  [Check out!](https://app.codesignal.com/profile/1075.
 ---
 #### Certifications
 
+<code><img height= "40" width="60" alt="https://drive.google.com/file/d/1rJ9eP4c-XDRoksWoufNOXfScSU1fTER9/view?usp=sharing" src="https://github.com/Ashish2030/Ashish2030/blob/main/image/IMG20191022153127.jpg"></code>
 <code><img height= "40" alt="https://drive.google.com/file/d/1Jx1vmJKlS8-T5n0iK3PZ890rKahnJAKj/view" src="https://github.com/Ashish2030/Ashish2030/blob/main/image/Javascript.jpg"></code>
 <code><img height= "40" alt="certified scrum master" src="https://i.ibb.co/m5RM2Sb/csm.jpg"></code>
 <code><img height= "40" alt="udacity android nanodegree" src="https://i.ibb.co/G355Gq2/udacity.jpg"></code>
