@@ -183,19 +183,19 @@ My website has quite a few of them, here's a list of the public ones:
 </a>
 ![Status](https://img.shields.io/badge/Status%20-Single%20-blue)
 <a href="https://github.com/kaizoku-oh?tab=repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a>
-[![Stackoverflow](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/stackoverflow.svg)](https://stackoverflow.com/users/16422925/ashish-kumar)
+[![Stackoverflow](https://github.com/ashish2030/ashish2030/blob/master/badges/stackoverflow.svg)](https://stackoverflow.com/users/16422925/ashish-kumar)
   
 ### My top 10 technologies-
 
-|![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/python.png)|![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/tensorflow.svg)|![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/gcp.png)|![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/azure.png)|![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/c++.png)|
+|![](https://github.com/Ashish2030/Ashish2030/blob/main/badgess/python.png)|![](https://github.com/Ashish2030/Ashish2030/blob/main/badgess/tensorflow.svg)|![](https://github.com/Ashish2030/Ashish2030/blob/main/badgess/gcp.png)|![](azure.png)|![](https://github.com/Ashish2030/Ashish2030/blob/main/badgess//c++.png)|
 |---|---|---|---|---|
-|![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/android.png)|![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/javascript.svg)|![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/node.svg)|![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/docker.svg)|![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/arduino.png)|
+|![](https://github.com/Ashish2030/Ashish2030/blob/main/badgess/android.png)|![](https://github.com/Ashish2030/Ashish2030/blob/main/badgess/javascript.svg)|![](https://github.com/Ashish2030/Ashish2030/blob/main/badgess/node.svg)|![](https://github.com/Ashish2030/Ashish2030/blob/main/badgess/docker.svg)|![](https://github.com/Ashish2030/Ashish2030/blob/main/badgess/arduino.png)|
 
 ### Tech communities
 
 |Organizer|Organizer|Mentor|
 |---------|---------|------|
-|<a href="https://kotlinmumbai.tech"><img src="https://github.com/Rishit-dagli/Rishit-dagli/blob/master/communities/kotlin_mumbai.png" height="100px"></a>|<a href="https://community.mozilla.org/groups/mozilla-mumbai/"><img src="https://github.com/Rishit-dagli/Rishit-dagli/blob/master/communities/mozilla_mumbai.png" height="100px"></a>|<a href="https://www.meetup.com/tfugmumbai/"><img src="https://github.com/Rishit-dagli/Rishit-dagli/blob/master/communities/tfug_mumbai.png" height="100px"></a>|
+|<a href="https://kotlinmumbai.tech"><img src="https://github.com/ashish2030/ashish2030/blob/master/communities/kotlin_mumbai.png" height="100px"></a>|<a href="https://community.mozilla.org/groups/mozilla-mumbai/"><img src="https://github.com/ashish2030/ashish2030/blob/master/communities/mozilla_mumbai.png" height="100px"></a>|<a href="https://www.meetup.com/tfugmumbai/"><img src="https://github.com/ashish2030/ashish2030/blob/master/communities/tfug_mumbai.png" height="100px"></a>|
 
 <table cellpadding="0" cellspacing="0" border="0">
   <tr>
