@@ -193,9 +193,9 @@ My website has quite a few of them, here's a list of the public ones:
 
 ### Tech communities
 
-|Organizer|Organizer|Mentor|
-|---------|---------|------|
-|<a href="https://kotlinmumbai.tech"><img src="https://github.com/Ashish2030/Ashish2030/blob/main/communities/kotlin_mumbai.png" height="100px"></a>|<a href="https://community.mozilla.org/groups/mozilla-mumbai/"><img src="https://github.com/Ashish2030/Ashish2030/blob/main/communities/mozilla_mumbai.png" height="100px"></a>|<a href="https://www.meetup.com/tfugmumbai/"><img src="https://github.com/Ashish2030/Ashish2030/blob/main/communities/tfug_mumbai.png" height="100px"></a>|
+|Organizer|Organizer|Mentor|Mentor|
+|---------|---------|------|------|
+|<a href="https://kotlinmumbai.tech"><img src="https://github.com/Ashish2030/Ashish2030/blob/main/communities/kotlin_mumbai.png" height="100px"></a>|<a href="https://community.mozilla.org/groups/mozilla-mumbai/"><img src="https://github.com/Ashish2030/Ashish2030/blob/main/communities/mozilla_mumbai.png" height="100px"></a>|<a href="https://drive.google.com/file/d/1256ltZ8IqYAcQWrb3ZVvLfa7xUamtjhz/view?usp=sharing"><img src="https://github.com/Ashish2030/Ashish2030/blob/main/image/favicon-removebg-preview.png" height="100px"></a>|<a href="https://drive.google.com/file/d/1rrjYtCFW6af_6bAN5KJys80BPTOcqBwu/view?usp=sharing"><img src="https://github.com/Ashish2030/Ashish2030/blob/main/image/lets.png" height="100px"></a>|
 
 <table cellpadding="0" cellspacing="0" border="0">
   <tr>
