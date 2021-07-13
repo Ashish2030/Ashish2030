@@ -375,6 +375,7 @@ CodeSignal              -  [Check out!](https://app.codesignal.com/profile/1075.
 <code><img height= "40" width="50" alt="https://drive.google.com/file/d/1gSL4NbTNS3hWxc9ZPaXvyw7_ytLR0Qxz/view?usp=sharing" src="https://github.com/Ashish2030/Ashish2030/blob/main/image/Screenshot%20(912).png"></code>
 <code><img height= "40" width="40" alt="https://drive.google.com/file/d/1gSL4NbTNS3hWxc9ZPaXvyw7_ytLR0Qxz/view?usp=sharing" src="https://github.com/Ashish2030/Ashish2030/blob/main/Screenshot%20(913).png"></code>
 
+
 ### Github Activity ✔:
 
 <!-- <a href="https://github.com/ashish2030">
@@ -400,13 +401,15 @@ CodeSignal              -  [Check out!](https://app.codesignal.com/profile/1075.
   </tr>
   </table>
   
-  
-  
-  
+### Open Source Projects ✨:
 
-&emsp;&emsp;
-
-
+| Project  🚧 | Stars :star: | Forks 🍴 | Issues ❌ | Pull Requests 🌿 |
+|---------|-------|-------|--------|---------------|
+| Jsoning | ![GitHub stars](https://img.shields.io/github/stars/khalby786/jsoning?style=for-the-badge) | ![GitHub Forks](https://img.shields.io/github/forks/khalby786/jsoning?style=for-the-badge) | ![GitHub Issues](https://img.shields.io/github/issues/khalby786/jsoning?style=for-the-badge) | ![GitHub PRs](https://img.shields.io/github/issues-pr/khalby786/jsoning?style=for-the-badge) |
+| MarkMe | ![GitHub stars](https://img.shields.io/github/stars/khalby786/markme?style=for-the-badge) | ![GitHub Forks](https://img.shields.io/github/forks/khalby786/markme?style=for-the-badge) | ![GitHub Issues](https://img.shields.io/github/issues/khalby786/markme?style=for-the-badge) | ![GitHub PRs](https://img.shields.io/github/issues-pr/khalby786/markme?style=for-the-badge) |
+| GlitchyPastePen | ![GitHub stars](https://img.shields.io/github/stars/khalby786/GlitchyPastePen?style=for-the-badge) | ![GitHub Forks](https://img.shields.io/github/forks/khalby786/GlitchyPastePen?style=for-the-badge) | ![GitHub Issues](https://img.shields.io/github/issues/khalby786/GlitchyPastePen?style=for-the-badge) | ![GitHub PRs](https://img.shields.io/github/issues-pr/khalby786/GlitchyPastePen?style=for-the-badge) |
+| REHeader | ![GitHub stars](https://img.shields.io/github/stars/khalby786/REHeader?style=for-the-badge) | ![GitHub Forks](https://img.shields.io/github/forks/khalby786/jsoning?style=for-the-badge) | ![GitHub Issues](https://img.shields.io/github/issues/khalby786/REHeader?style=for-the-badge) | ![GitHub PRs](https://img.shields.io/github/issues-pr/khalby786/REHeader?style=for-the-badge) |
+| personal-website | ![GitHub stars](https://img.shields.io/github/stars/khalby786/personal-website?style=for-the-badge) | ![GitHub Forks](https://img.shields.io/github/forks/khalby786/personal-website?style=for-the-badge) | ![GitHub Issues](https://img.shields.io/github/issues/khalby786/personal-website?style=for-the-badge) | ![GitHub PRs](https://img.shields.io/github/issues-pr/khalby786/personal-website?style=for-the-badge) |
 
 ### My Projects ✨:
   
