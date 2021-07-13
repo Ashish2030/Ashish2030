@@ -324,7 +324,9 @@ CodeSignal              -  [Check out!](https://app.codesignal.com/profile/1075.
 
 --- -->
 
-
+## Other Stuff
+  - :octocat: [My Resume](https://drive.google.com/file/d/1DFpYZ4La-Z6j74usMf_rnODBtZmPuy-Y/view?usp=sharing)
+  - If you have any suggestions to this README, feel free to inform me. And if you liked, you are free to use it for yourself.(P.S. Star it too!!:grimacing: )
 
 
 #### Certifications
