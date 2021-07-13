@@ -60,7 +60,7 @@
 <h1 align="center"><img src="https://i.pinimg.com/originals/00/4b/17/004b173f6e3d6843df10114e087f30a8.gif" width=6% /> 𝐈𝐧𝐭𝐫𝐨𝐝𝐮𝐜𝐭𝐢𝐨𝐧</h1>
 
 
-| <img src = "https://github.com/Ashish2030/Ashish2030/blob/main/1.png" width = 60% > | <img src = "https://github.com/Ashish2030/Ashish2030/blob/main/circle-cropped123.png" width = 85%> 
+| <img src = "https://user-images.githubusercontent.com/61516051/125429786-4f4b371c-a2b4-4f44-a644-d38868ad37a8.png" width = 60% > | <img src = "https://github.com/Ashish2030/Ashish2030/blob/main/circle-cropped123.png" width = 85%> 
 | :------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------: 
 |                    [ɪɴꜱᴛᴀɢʀᴀᴍ](https://github.com/Ashish2030)\*                   |     [ʟɪɴᴋᴇᴅɪɴ](https://www.linkedin.com/in/ashish-kumar-2030/)\*     |
 
