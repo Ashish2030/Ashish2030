@@ -324,39 +324,7 @@ CodeSignal              -  [Check out!](https://app.codesignal.com/profile/1075.
 
 --- -->
 
-<details>
-  
-<summary> 𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚠𝚒𝚝𝚑 𝚖𝚎🤝: </summary>  
 
-<br/>
-
-<a href="https://t.me/As_hu12">
-  <img align="left" alt="Ashish's Telegram" width="22px" src="https://web.telegram.org/img/logo_share.png" />
-</a>
-
-<a href="https://github.com/Ashish2030">
-  <img align="left" alt="Ashish's Github" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
-</a>
-
-<a href="https://www.instagram.com/kp__satyam/">
-  <img align="left" alt="Ashish's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" />
-</a>
-
-<a href="https://www.facebook.com/profile.php?id=100054625852080">
-  <img align="left" alt="Ashish's Facebook" width="22px" src="https://facebookbrand.com/wp-content/uploads/2019/04/f_logo_RGB-Hex-Blue_512.png?w=512&h=512" />
-</a>
-
-<a href="https://twitter.com/ASHISHK48436847">
-  <img align="left" alt="Ashish's Twitter" width="22px" src="https://cdn2.iconfinder.com/data/icons/metro-uinvert-dock/256/Twitter_NEW.png" />
-</a>
-
-<a href="https://www.linkedin.com/in/ashish-kumar-2030/">
-  <img align="left" alt="Ashish's Linkdein" width="22px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />
-</a>
-
-<br/>
-
-</details>
 
 ---
 #### Certifications
