@@ -193,9 +193,9 @@ My website has quite a few of them, here's a list of the public ones:
 
 ### Tech communities
 
-|Organizer|Project Admin|Mentor|Mentor|
+| Founder |Project Admin|Mentor|Mentor|
 |---------|---------|------|------|
-|<a href="https://kotlinmumbai.tech"><img src="https://github.com/Ashish2030/Ashish2030/blob/main/communities/kotlin_mumbai.png" height="100px"></a>|<a href="https://community.mozilla.org/groups/mozilla-mumbai/"><img src="https://github.com/Ashish2030/Ashish2030/blob/main/image/Screenshot%20(922).png" height="100px"></a>|<a href="https://drive.google.com/file/d/1256ltZ8IqYAcQWrb3ZVvLfa7xUamtjhz/view?usp=sharing"><img src="https://github.com/Ashish2030/Ashish2030/blob/main/image/favicon-removebg-preview.png" height="100px"></a>|<a href="https://drive.google.com/file/d/1rrjYtCFW6af_6bAN5KJys80BPTOcqBwu/view?usp=sharing"><img src="https://github.com/Ashish2030/Ashish2030/blob/main/image/lets.png" height="100px"></a>|
+|<a href="https://kotlinmumbai.tech"><img src="https://user-images.githubusercontent.com/61516051/125564324-9fa6ae72-1459-4348-867a-9de7ee5a1815.png" height="100px"></a>|<a href="https://community.mozilla.org/groups/mozilla-mumbai/"><img src="https://github.com/Ashish2030/Ashish2030/blob/main/image/Screenshot%20(922).png" height="100px"></a>|<a href="https://drive.google.com/file/d/1256ltZ8IqYAcQWrb3ZVvLfa7xUamtjhz/view?usp=sharing"><img src="https://github.com/Ashish2030/Ashish2030/blob/main/image/favicon-removebg-preview.png" height="100px"></a>|<a href="https://drive.google.com/file/d/1rrjYtCFW6af_6bAN5KJys80BPTOcqBwu/view?usp=sharing"><img src="https://github.com/Ashish2030/Ashish2030/blob/main/image/lets.png" height="100px"></a>|
 
 <table cellpadding="0" cellspacing="0" border="0">
   <tr>
