@@ -168,10 +168,12 @@ My website has quite a few of them, here's a list of the public ones:
  <p align="right" ><img src="https://github.com/Ashish2030/Ashish2030/blob/main/image/dart.png" width="20%"/>  <img src="https://github.com/Ashish2030/Ashish2030/blob/main/image/a1.gif"/></p>
 
 
-![Profile Count](https://komarev.com/ghpvc/?username=ashish2030&label=Profile%20views&color=0e75b6&style=flat)<br>
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.9%20million%20lines%20of%20code-blue)
+![Profile Count](https://komarev.com/ghpvc/?username=ashish2030&label=Profile%20views&color=0e75b6&style=flat)
 ![age](https://img.shields.io/badge/age-21-blue)<br>
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.9%20million%20lines%20of%20code-blue)
 [![GitHub repo size](https://img.shields.io/github/repo-size/ashish2030/Ashish2030)](https://github.com/ashish2030/Ashish2030/archive/master.zip)
+![Status](https://img.shields.io/badge/Status%20-Single%20-blue)
+<br>
 <a href="https://github.com/ashish2030/"><img src="https://img.shields.io/github/followers/ashish2030?style=flat-square?color=%234CC61E&label=GitHub%20Followers%20"/></a>
 ![focus](https://img.shields.io/badge/focus-backend-brightgreen)
 [![GitHub last commit](https://img.shields.io/github/last-commit/ashish2030/ashish2030)](https://github.com/ashish2030/ashish2030/commits/master)
@@ -181,7 +183,6 @@ My website has quite a few of them, here's a list of the public ones:
 [![Medium](https://github.com/Ashish2030/Ashish2030/blob/main/badgess/medium.svg)](https://medium.com/@ashishkumar.cse18)<br>
 ![](https://img.shields.io/badge/Core%20Java-%3C%2F%3E-yellow) ![](https://img.shields.io/badge/Python-%7C-0%2C%2022%2C%20100) ![](https://img.shields.io/badge/Business%20English-%7C-yellowgreen) ![](https://img.shields.io/badge/SQL-%7C-orange) ![](https://img.shields.io/badge/Cloud%20Developer-%7C-blue)<a href="https://github.com/ashish2030">
 </a>
-![Status](https://img.shields.io/badge/Status%20-Single%20-blue)
 <a href="https://github.com/kaizoku-oh?tab=repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a>
 [![Stackoverflow](https://github.com/Ashish2030/Ashish2030/blob/main/badgess/stackoverflow.svg)](https://stackoverflow.com/users/16422925/ashish-kumar)
   
