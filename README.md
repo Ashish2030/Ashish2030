@@ -169,8 +169,8 @@ My website has quite a few of them, here's a list of the public ones:
 
 
 ![Profile Count](https://komarev.com/ghpvc/?username=ashish2030&label=Profile%20views&color=0e75b6&style=flat)<br>
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.9%20million%20lines%20of%20code-blue)<br>
-![age](https://img.shields.io/badge/age-21-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.9%20million%20lines%20of%20code-blue)
+![age](https://img.shields.io/badge/age-21-blue)<br>
 [![GitHub repo size](https://img.shields.io/github/repo-size/ashish2030/Ashish2030)](https://github.com/ashish2030/Ashish2030/archive/master.zip)
 <a href="https://github.com/ashish2030/"><img src="https://img.shields.io/github/followers/ashish2030?style=flat-square?color=%234CC61E&label=GitHub%20Followers%20"/></a>
 ![focus](https://img.shields.io/badge/focus-backend-brightgreen)
