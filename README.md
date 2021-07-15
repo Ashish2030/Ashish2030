@@ -66,7 +66,7 @@
 
 
   <h1 align="center"> 𝐇𝐢<img src="https://github.com/Ashish2030/Ashish2030/blob/main/image/Developer.gif?raw=true" width="50px"> 𝐈'𝐦 𝐀𝐬𝐡𝐢𝐬𝐡 𝐊𝐮𝐦𝐚𝐫</h1>
-  <h3 align="center">A ᴘᴀssɪᴏɴᴀᴛᴇ Fᴜʟʟ Sᴛᴀᴄᴋ Dᴇᴠᴇʟᴏᴘᴇʀ ғʀᴏᴍ Iɴᴅɪᴀ</h3>
+  <h3 align="center"> 🔭 A ᴘᴀssɪᴏɴᴀᴛᴇ Fᴜʟʟ Sᴛᴀᴄᴋ Dᴇᴠᴇʟᴏᴘᴇʀ ғʀᴏᴍ Iɴᴅɪᴀ</h3>
 
 
 <!-- <details>
