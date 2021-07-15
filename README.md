@@ -415,8 +415,10 @@ CodeSignal              -  [Check out!](https://app.codesignal.com/profile/1075.
 <img src="https://img.shields.io/github/issues/ashish2030/Ashish2030?style=flat-square" alt="Ashish2030"/>
 </a>
 <a href="https://github.com/ashish2030/Ashish2030/pulls" target="blank">
-<img src="https://img.shields.io/github/issues-pr/ashish2030/Ashish2030?style=flat-square" alt="Ashish2030"/><br/>
+<img src="https://img.shields.io/github/issues-pr/ashish2030/Ashish2030?style=flat-square" alt="Ashish2030"/>
 </a>
+  </p>
+  <p align ="center">
   <a href="https://github.com/ashish2030/Ashish2030/pulls" target="blank">
 <img src="https://komarev.com/ghpvc/?username=ashish2030&label=Profile%20views&color=0e75b6&style=flat" alt="Ashish2030"/>
 </a>
@@ -428,7 +430,9 @@ CodeSignal              -  [Check out!](https://app.codesignal.com/profile/1075.
 </a>
     <a href="https://github.com/ashish2030/Ashish2030/pulls" target="blank">
 <img src="https://img.shields.io/github/repo-size/ashish2030/Ashish2030" alt="Ashish2030"/>
-</a><br/>
+</a>
+</p>
+<p align="center">
     <a href="https://github.com/ashish2030/Ashish2030/pulls" target="blank">
 <img src="https://img.shields.io/badge/Status%20-Single%20-blue" alt="Ashish2030"/>
 </a>
@@ -450,7 +454,8 @@ CodeSignal              -  [Check out!](https://app.codesignal.com/profile/1075.
   <a href="https://github.com/ashish2030/">
     <img src="https://img.shields.io/github/license/ashish2030/ashish2030?style=flat"/>
   </a>
-  <br/>
+  </p>
+  <p align="center">
   <a href="https://github.com/ashish2030/">
     <img src="https://github.com/Ashish2030/Ashish2030/blob/main/badgess/medium.svg"/>
   </a>
