@@ -168,23 +168,7 @@ My website has quite a few of them, here's a list of the public ones:
  <p align="right" ><img src="https://github.com/Ashish2030/Ashish2030/blob/main/image/dart.png" width="20%"/>  <img src="https://github.com/Ashish2030/Ashish2030/blob/main/image/a1.gif"/></p>
 
 
-![Profile Count](https://komarev.com/ghpvc/?username=ashish2030&label=Profile%20views&color=0e75b6&style=flat)
-![age](https://img.shields.io/badge/age-21-blue)<br>
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.9%20million%20lines%20of%20code-blue)
-[![GitHub repo size](https://img.shields.io/github/repo-size/ashish2030/Ashish2030)](https://github.com/ashish2030/Ashish2030/archive/master.zip)
-![Status](https://img.shields.io/badge/Status%20-Single%20-blue)
-<br>
-<a href="https://github.com/ashish2030/"><img src="https://img.shields.io/github/followers/ashish2030?style=flat-square?color=%234CC61E&label=GitHub%20Followers%20"/></a>
-![focus](https://img.shields.io/badge/focus-backend-brightgreen)
-[![GitHub last commit](https://img.shields.io/github/last-commit/ashish2030/ashish2030)](https://github.com/ashish2030/ashish2030/commits/master)
-![living](https://img.shields.io/badge/living-Bihar-3c9)
-<img src="https://img.shields.io/badge/Os-Debian-a80030"/>
-![License](https://img.shields.io/github/license/ashish2030/ashish2030?style=flat)<br>
-[![Medium](https://github.com/Ashish2030/Ashish2030/blob/main/badgess/medium.svg)](https://medium.com/@ashishkumar.cse18)
-![](https://img.shields.io/badge/Core%20Java-%3C%2F%3E-yellow) ![](https://img.shields.io/badge/Python-%7C-0%2C%2022%2C%20100) ![](https://img.shields.io/badge/Business%20English-%7C-yellowgreen) ![](https://img.shields.io/badge/SQL-%7C-orange) ![](https://img.shields.io/badge/Cloud%20Developer-%7C-blue)<a href="https://github.com/ashish2030">
-</a>
-<a href="https://github.com/kaizoku-oh?tab=repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a>
-[![Stackoverflow](https://github.com/Ashish2030/Ashish2030/blob/main/badgess/stackoverflow.svg)](https://stackoverflow.com/users/16422925/ashish-kumar)
+
   
 ### My top 10 technologies-
 
@@ -431,9 +415,59 @@ CodeSignal              -  [Check out!](https://app.codesignal.com/profile/1075.
 <img src="https://img.shields.io/github/issues/ashish2030/Ashish2030?style=flat-square" alt="Ashish2030"/>
 </a>
 <a href="https://github.com/ashish2030/Ashish2030/pulls" target="blank">
-<img src="https://img.shields.io/github/issues-pr/ashish2030/Ashish2030?style=flat-square" alt="Ashish2030"/>
+<img src="https://img.shields.io/github/issues-pr/ashish2030/Ashish2030?style=flat-square" alt="Ashish2030"/><br/>
 </a>
-</p>
+  <a href="https://github.com/ashish2030/Ashish2030/pulls" target="blank">
+<img src="https://komarev.com/ghpvc/?username=ashish2030&label=Profile%20views&color=0e75b6&style=flat" alt="Ashish2030"/>
+</a>
+    <a href="https://github.com/ashish2030/Ashish2030/pulls" target="blank">
+<img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.9%20million%20lines%20of%20code-blue" alt="Ashish2030"/>
+</a>
+    <a href="https://github.com/ashish2030/Ashish2030/pulls" target="blank">
+<img src="https://img.shields.io/badge/age-21-blue" alt="Ashish2030"/>
+</a>
+    <a href="https://github.com/ashish2030/Ashish2030/pulls" target="blank">
+<img src="https://img.shields.io/github/repo-size/ashish2030/Ashish2030" alt="Ashish2030"/>
+</a><br/>
+    <a href="https://github.com/ashish2030/Ashish2030/pulls" target="blank">
+<img src="https://img.shields.io/badge/Status%20-Single%20-blue" alt="Ashish2030"/>
+</a>
+<a href="https://github.com/ashish2030/">
+  <img src="https://img.shields.io/github/followers/ashish2030?style=flat-square?color=%234CC61E&label=GitHub%20Followers%20"/>
+  </a>
+  <a href="https://github.com/ashish2030/">
+    <img src="https://img.shields.io/badge/focus-backend-brightgreen"/>
+  </a>
+  <a href="https://github.com/ashish2030/">
+    <img src="https://img.shields.io/github/last-commit/ashish2030/ashish2030"/>
+  </a>
+  <a href="https://github.com/ashish2030/">
+    <img src="https://img.shields.io/badge/living-Bihar-3c9"/>
+  </a>
+  <a href="https://github.com/ashish2030/">
+    <img src="https://img.shields.io/badge/Os-Debian-a80030"/>
+  </a>
+  <a href="https://github.com/ashish2030/">
+    <img src="https://img.shields.io/github/license/ashish2030/ashish2030?style=flat"/>
+  </a>
+  <br/>
+  <a href="https://github.com/ashish2030/">
+    <img src="https://github.com/Ashish2030/Ashish2030/blob/main/badgess/medium.svg"/>
+  </a>
+    <a href="https://github.com/ashish2030/">
+      <img src="https://img.shields.io/badge/Core%20Java-%3C%2F%3E-yellow"/>
+  </a>
+    <a href="https://github.com/ashish2030/"><img src="https://img.shields.io/badge/Python-%7C-0%2C%2022%2C%20100"/></a>
+    <a href="https://github.com/ashish2030/"><img src="https://img.shields.io/badge/Business%20English-%7C-yellowgreen"/></a>
+    <a href="https://github.com/ashish2030/"><img src="https://img.shields.io/badge/SQL-%7C-orange"/></a>
+    <a href="https://github.com/ashish2030/"><img src="https://img.shields.io/badge/Cloud%20Developer-%7C-blue"/></a>
+    <a href="https://github.com/ashish2030/"><img src="https://img.shields.io/badge/SQL-%7C-orange"/></a>
+    <a href="https://github.com/ashish2030/"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a>
+  <a href="https://stackoverflow.com/users/16422925/ashish-kumar"><img src="https://github.com/Ashish2030/Ashish2030/blob/main/badgess/stackoverflow.svg"/></a>
+  </p>
+
+
+
 
 <a href="https://github.com/ashish2030/ashish2030"><img alt=" Ashish's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ashish2030&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
