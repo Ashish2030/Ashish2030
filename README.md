@@ -56,6 +56,8 @@
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png " width=70%/>
 </p>
 
+ <p align="right" ><img src="https://github.com/Ashish2030/Ashish2030/blob/main/image/dart.png" width="20%"/>  <img src="https://github.com/Ashish2030/Ashish2030/blob/main/image/a1.gif"/></p> 
+ 
 
 <h1 align="center"><img src="https://i.pinimg.com/originals/00/4b/17/004b173f6e3d6843df10114e087f30a8.gif" width=6% /> 𝐈𝐧𝐭𝐫𝐨𝐝𝐮𝐜𝐭𝐢𝐨𝐧</h1>
 
@@ -63,6 +65,10 @@
 | <img src = "https://user-images.githubusercontent.com/61516051/125429786-4f4b371c-a2b4-4f44-a644-d38868ad37a8.png" width = 60% > | <img src = "https://github.com/Ashish2030/Ashish2030/blob/main/circle-cropped123.png" width = 85%> 
 | :------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------: 
 |                    [ɪɴꜱᴛᴀɢʀᴀᴍ](https://github.com/Ashish2030)\*                   |     [ʟɪɴᴋᴇᴅɪɴ](https://www.linkedin.com/in/ashish-kumar-2030/)\*     |
+
+
+
+
 
 
   <h1 align="center"> 𝐇𝐢<img src="https://github.com/Ashish2030/Ashish2030/blob/main/image/Developer.gif?raw=true" width="50px"> 𝐈'𝐦 𝐀𝐬𝐡𝐢𝐬𝐡 𝐊𝐮𝐦𝐚𝐫</h1>
@@ -164,8 +170,28 @@ My website has quite a few of them, here's a list of the public ones:
 
 <!--- <h3 align="center"><img src="https://i.imgur.com/ahdGDEy.gif" width="18%"> I'm Full Stack Developer -<img  src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3> -->
  <!-- ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/ashish2030/&title=Profile%20Views) -->
-                                                         
- <p align="right" ><img src="https://github.com/Ashish2030/Ashish2030/blob/main/image/dart.png" width="20%"/>  <img src="https://github.com/Ashish2030/Ashish2030/blob/main/image/a1.gif"/></p>
+         
+<img width="55%" align="right" alt="Bootcamp" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/full/workbench.svg"/>
+
+<p align="left">
+  <samp>
+    <br><br>
+    Full stack developer
+    <br><br>
+     & mobile developer...
+    <br><br>
+    Focusing on building beautiful
+    <br><br> 
+    & native applications...
+  </samp>
+</p>
+
+<hr/>	 
+	 
+<br/>
+<br/>
+<br/>
+
 
 
 
