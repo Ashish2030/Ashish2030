@@ -192,9 +192,7 @@ My website has quite a few of them, here's a list of the public ones:
 
 
 
-- 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 **kumarashish79924@gmail.com**
 
----
 
 <details>
 <summary>
