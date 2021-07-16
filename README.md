@@ -56,7 +56,7 @@
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png " width=70%/>
 </p>
 
- <p align="right" ><img src="https://github.com/Ashish2030/Ashish2030/blob/main/image/dart.png" width="20%"/>  <img src="https://github.com/Ashish2030/Ashish2030/blob/main/image/a1.gif"/></p> 
+
  
 
 <h1 align="center"><img src="https://i.pinimg.com/originals/00/4b/17/004b173f6e3d6843df10114e087f30a8.gif" width=6% /> 𝐈𝐧𝐭𝐫𝐨𝐝𝐮𝐜𝐭𝐢𝐨𝐧</h1>
@@ -425,8 +425,9 @@ CodeSignal              -  [Check out!](https://app.codesignal.com/profile/1075.
 <br/>
 
 <br/>
-
-
+<br/>
+<br/>
+ <p align="right" ><img src="https://github.com/Ashish2030/Ashish2030/blob/main/image/dart.png" width="20%"/>  <img src="https://github.com/Ashish2030/Ashish2030/blob/main/image/a1.gif"/></p> 
 
  <p align="center">
  <a href="https://github.com/ashish2030/Ashish2030/fork" target="blank">
