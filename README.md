@@ -526,7 +526,7 @@ CodeSignal              -  [Check out!](https://app.codesignal.com/profile/1075.
 
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/61516051/126058448-6b9c5d6f-16f1-4ef2-9cb9-b28816c0961e.png " width=110%/>
+  <img src="https://user-images.githubusercontent.com/61516051/126058448-6b9c5d6f-16f1-4ef2-9cb9-b28816c0961e.png " width=100%/>
 </p>
 
 
