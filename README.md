@@ -394,7 +394,7 @@ CodeSignal              -  [Check out!](https://app.codesignal.com/profile/1075.
 </a> </td>
   </tr>
   <tr>
-    <td><a href="https://git.io/streak-stats">
+    <td><a href="https://github.com/Ashish2030">
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=ashish2030&theme=tokyonight" alt="Ashish2030"/>
 </a></td>
   </tr>
