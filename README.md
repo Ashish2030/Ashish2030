@@ -531,7 +531,10 @@ CodeSignal              -  [Check out!](https://app.codesignal.com/profile/1075.
 
 
 
-![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/Ashish2030/Ashish2030/blob/main/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://github.com/Ashish2030/Ashish2030/blob/main/github-contribution-grid-snake.svg"/>
+</p>
+
 
 
 
