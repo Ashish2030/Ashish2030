@@ -1,3 +1,4 @@
+
 <!-- [![Header](https://github.com/adamalston/adamalston/raw/master/profile.gif)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 [![adamalston.com](https://img.shields.io/badge/-ADAMALSTON.COM-000000?style=for-the-badge&logo=react&logoColor=white)](https://www.adamalston.com/)
@@ -393,8 +394,8 @@ CodeSignal              -  [Check out!](https://app.codesignal.com/profile/1075.
 </a> </td>
   </tr>
   <tr>
-    <td><a href="https://github.com/ashish2030">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashish2030&theme=tokyonight&line_height=20" alt="Ashish2030"/>
+    <td><a href="https://git.io/streak-stats">
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=ashish2030&theme=tokyonight" alt="Ashish2030"/>
 </a></td>
   </tr>
   </table>
