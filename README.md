@@ -525,7 +525,10 @@ CodeSignal              -  [Check out!](https://app.codesignal.com/profile/1075.
 <a href="https://github.com/ashish2030/ashish2030"><img alt=" Ashish's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ashish2030&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 
-![Contribution](https://user-images.githubusercontent.com/61516051/125544403-9f78e918-9e3f-4517-8e64-479890854512.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/61516051/126058448-6b9c5d6f-16f1-4ef2-9cb9-b28816c0961e.png " width=110%/>
+</p>
+
 
 
 ![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/Ashish2030/Ashish2030/blob/main/github-contribution-grid-snake.svg)
