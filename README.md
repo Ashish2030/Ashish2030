@@ -193,7 +193,7 @@ My website has quite a few of them, here's a list of the public ones:
 
 
   
-### My top 10 technologies-
+### My top 10 technologies--
 
 |![](https://github.com/Ashish2030/Ashish2030/blob/main/badgess/python.png)|![](https://github.com/Ashish2030/Ashish2030/blob/main/badgess/tensorflow.svg)|![](https://github.com/Ashish2030/Ashish2030/blob/main/badgess/gcp.png)|![](azure.png)|![](https://github.com/Ashish2030/Ashish2030/blob/main/badgess//c++.png)|
 |---|---|---|---|---|
