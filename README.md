@@ -424,7 +424,7 @@ CodeSignal              -  [Check out!](https://app.codesignal.com/profile/1075.
 </a>
 
 <a href="https://github.com/Ashish2030/Music-Hoster-Backend-Spring-Boot">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashish2030&repo=Music-Hoster-Backend-Spring-Boot&theme=tokyonight" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashish2030&repo=Music-Hoster-Backend-Spring-PostgreSQL&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/Ashish2030/Image-Hosting-Application-Using-Spring-Boot-Technology">
