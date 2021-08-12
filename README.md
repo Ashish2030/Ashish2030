@@ -264,9 +264,9 @@ CodeSignal              -  [Check out!](https://app.codesignal.com/profile/1075.
   </thead>
   <tbody>
     <tr>
-      <td><b>Problem Setter(Procode)</b></td>
-      <td>Setting Problems ranging from easy to medium and hard levels</td>
-      <td>March 2020 - Present</td>
+      <td><b>Teaching Assistant DS Algo(Upgrad)</b></td>
+      <td>Take Query Of a Student regarding full Stack Development</td>
+      <td>Aug 2021 - Present</td>
     </tr>
   </tbody>
 </table>
