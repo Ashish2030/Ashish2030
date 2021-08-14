@@ -265,7 +265,7 @@ CodeSignal              -  [Check out!](https://app.codesignal.com/profile/1075.
   <tbody>
     <tr>
       <td><b>Teaching Assistant FOP+Full Stack(Upgrad)</b></td>
-      <td>Take Query Of a Student </td>
+      <td>Take Query Of a Students </td>
       <td>Aug 2021 - Present</td>
     </tr>
   </tbody>
