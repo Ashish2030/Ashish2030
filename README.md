@@ -264,7 +264,7 @@ CodeSignal              -  [Check out!](https://app.codesignal.com/profile/1075.
   </thead>
   <tbody>
     <tr>
-      <td><b>Teaching Assistant FOP+Full Stack(Upgrad)</b></td>
+      <td><b>Teaching Assistant FOP+Full Stack ( <a href="https://www.linkedin.com/company/wollfish-labs-private-limited/"> ᴜᴘɢʀᴀᴅ </a> )</b></td>
       <td>Take Query Of a Students </td>
       <td>Aug 2021 - Present</td>
     </tr>
@@ -272,7 +272,7 @@ CodeSignal              -  [Check out!](https://app.codesignal.com/profile/1075.
   </tbody>
 	 <tbody>
     <tr>
-      <td><b>Back-End Intern Using Ruby on Rails</b></td>
+      <td><b>Back-End Intern ( <a href="https://www.linkedin.com/company/ueducation/"> ᴡᴏʟʟꜰɪꜱʜ ʟᴀʙꜱ </a> ) </b></td>
       <td>Built BackEnd for their Product </td>
       <td>June 2021 - July 2021</td>
     </tr>
