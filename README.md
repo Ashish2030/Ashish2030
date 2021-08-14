@@ -268,6 +268,15 @@ CodeSignal              -  [Check out!](https://app.codesignal.com/profile/1075.
       <td>Take Query Of a Students </td>
       <td>Aug 2021 - Present</td>
     </tr>
+	  
+  </tbody>
+	 <tbody>
+    <tr>
+      <td><b>Back-End Intern Using Ruby on Rails</b></td>
+      <td>Built BackEnd for their Product </td>
+      <td>June 2021 - July 2021</td>
+    </tr>
+	  
   </tbody>
 </table>
 </details>
