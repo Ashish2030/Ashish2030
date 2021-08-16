@@ -288,7 +288,7 @@ CodeSignal              -  [Check out!](https://app.codesignal.com/profile/1075.
   </tbody>
   <tbody>
     <tr>
-      <td><b>Project Administrator( <a href="https://devincept.tech/"> ᴅᴇᴠɪɴᴄᴇᴘᴛ </a> ) </b></td>
+      <td><b>Project Admin( <a href="https://devincept.tech/"> ᴅᴇᴠɪɴᴄᴇᴘᴛ </a> ) </b></td>
       <td>Take Query Of a Contributers and giving grade according to their Contribution </td>
       <td>May 2021 - July 2021</td>
     </tr 
