@@ -293,6 +293,13 @@ CodeSignal              -  [Check out!](https://app.codesignal.com/profile/1075.
       <td>May 2021 - July 2021</td>
     </tr 
   </tbody>
+  <tbody>
+    <tr>
+      <td><b>Mentor( <a href="https://gssoc.girlscript.tech/"> ɢɪʀʟꜱᴄʀɪᴘᴛ ꜱᴜᴍᴍᴇʀ ᴏꜰ ᴄᴏᴅᴇ </a> ) </b></td>
+      <td>Take Query Of a Contributers and giving grade according to their Contribution </td>
+      <td>Feb 2021 - June 2021</td>
+    </tr 
+  </tbody>
 </table>
 </details>
 <!-- end work experience section -->
