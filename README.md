@@ -280,7 +280,7 @@ CodeSignal              -  [Check out!](https://app.codesignal.com/profile/1075.
   </tbody>
   <tbody>
     <tr>
-      <td><b>SDE Intern(<a href="https://www.linkedin.com/company/ueducation/">ᴡᴏʟʟꜰɪꜱʜ-ʟᴀʙꜱ</a>) </b></td>
+      <td><b>SDE Intern(<a href="https://www.linkedin.com/company/ueducation/">ᴡᴏʟʟꜰɪꜱʜ-ʟᴀʙꜱ </a>) </b></td>
       <td>Built BackEnd Using Ruby on Rails framework for their Product </td>
       <td>June 2021 - July 2021</td>
     </tr>
