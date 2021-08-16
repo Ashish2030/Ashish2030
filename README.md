@@ -302,7 +302,7 @@ CodeSignal              -  [Check out!](https://app.codesignal.com/profile/1075.
   </tbody>
 	      <tbody>
     <tr>
-      <td><b> Trainee( <a href="https://internshala.com/student/dashboard/"> Python </a> ) </b></td>
+      <td><b> Trainee( <a href="https://internshala.com/student/dashboard/"> ᴘʏᴛʜᴏɴ </a> ) </b></td>
       <td>Take Query Of a Contributers and giving grade according to their Contribution </td>
       <td>June 2020 - Oct 2021</td>
     </tr 
