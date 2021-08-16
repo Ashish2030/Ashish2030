@@ -270,21 +270,28 @@ CodeSignal              -  [Check out!](https://app.codesignal.com/profile/1075.
     </tr>
 	  
   </tbody>
-	  <tbody>
+<tbody>
     <tr>
-      <td><b>Mentor ( <a href="https://letsgrowmore.in/"> ʟᴇᴛꜱɢʀᴏᴡᴍᴏʀᴇ </a> )</b></td>
-      <td>Take Query Of a Contributer and giving grade according to their Contribution</td>
+      <td><b>Mentor( <a href="https://letsgrowmore.in/"> ʟᴇᴛꜱɢʀᴏᴡᴍᴏʀᴇ </a> )</b></td>
+      <td>Take Query Of a Contributers and giving grade according to their Contribution</td>
       <td>June 2021 - July 2021</td>
     </tr>
 	  
   </tbody>
   <tbody>
     <tr>
-      <td><b>Back-End Intern ( <a href="https://www.linkedin.com/company/ueducation/"> ᴡᴏʟʟꜰɪꜱʜ ʟᴀʙꜱ </a> ) </b></td>
+      <td><b>Back-End Intern( <a href="https://www.linkedin.com/company/ueducation/"> ᴡᴏʟʟꜰɪꜱʜ ʟᴀʙꜱ </a> ) </b></td>
       <td>Built BackEnd Using Ruby on Rails framework for their Product </td>
       <td>June 2021 - July 2021</td>
     </tr>
 	  
+  </tbody>
+  <tbody>
+    <tr>
+      <td><b>Project Administrator( <a href="https://devincept.tech/"> ᴅᴇᴠɪɴᴄᴇᴘᴛ </a> ) </b></td>
+      <td>Take Query Of a Contributers and giving grade according to their Contribution </td>
+      <td>May 2021 - July 2021</td>
+    </tr 
   </tbody>
 </table>
 </details>
