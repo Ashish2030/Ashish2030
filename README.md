@@ -392,21 +392,22 @@ CodeSignal              -  [Check out!](https://app.codesignal.com/profile/1075.
 
 #### Certifications
 	
-<code><img height= "40" width="60" alt="https://user-images.githubusercontent.com/61516051/129794594-f06faae9-ab77-4393-bac1-4c6fee6e84f6.png" src="https://user-images.githubusercontent.com/61516051/129794594-f06faae9-ab77-4393-bac1-4c6fee6e84f6.png"></code>
-<code><img height= "40" width="60" alt="https://user-images.githubusercontent.com/61516051/129794457-603d4d68-af03-45f0-813c-42acc33c7c93.png" src="https://user-images.githubusercontent.com/61516051/129794457-603d4d68-af03-45f0-813c-42acc33c7c93.png"></code>
-<code><img height= "40" width="60" alt="https://drive.google.com/file/d/1rJ9eP4c-XDRoksWoufNOXfScSU1fTER9/view?usp=sharing" src="https://github.com/Ashish2030/Ashish2030/blob/main/image/IMG20191022153127.jpg"></code>
-<code><img height= "40" alt="https://drive.google.com/file/d/1Jx1vmJKlS8-T5n0iK3PZ890rKahnJAKj/view" src="https://github.com/Ashish2030/Ashish2030/blob/main/image/Javascript.jpg"></code>
-<code><img height= "40" alt="certified scrum master" src="https://i.ibb.co/m5RM2Sb/csm.jpg"></code>
-<code><img height= "40" alt="udacity android nanodegree" src="https://i.ibb.co/G355Gq2/udacity.jpg"></code>
-<code><img height= "40" alt="https://drive.google.com/file/d/19og94L55k1UShALl3eeBH9DROXk4gF18/view" src="https://github.com/Ashish2030/Ashish2030/blob/main/image/1623817331886.jfif"></code>
-<code><img height= "40" alt="https://www.hackerrank.com/certificates/e98d57c6e0f5" src="https://github.com/Ashish2030/Ashish2030/blob/main/image/download.png"></code>
-<code><img height= "40" alt="https://drive.google.com/drive/quota" src="https://github.com/Ashish2030/Ashish2030/blob/main/image/web.jpg"></code>
-<code><img height= "40" alt="https://drive.google.com/file/d/1IMkbIbPTysNe63HwR4PvL-I0cOeX4m7a/view" src="https://github.com/Ashish2030/Ashish2030/blob/main/image/Screenshot%20(908).png"></code>
-<code><img height= "40" alt="https://drive.google.com/file/d/1jXBskVYJxuPM4paPqquOSNDwAspSksY_/view?usp=sharing" src="https://github.com/Ashish2030/Ashish2030/blob/main/image/security.png"></code>
-<code><img height= "40" alt="https://drive.google.com/file/d/1gSL4NbTNS3hWxc9ZPaXvyw7_ytLR0Qxz/view?usp=sharing" src="https://github.com/Ashish2030/Ashish2030/blob/main/image/Screenshot%20(909).png"></code>
-<code><img height= "40" alt="https://drive.google.com/file/d/1gSL4NbTNS3hWxc9ZPaXvyw7_ytLR0Qxz/view?usp=sharing" src="https://github.com/Ashish2030/Ashish2030/blob/main/image/Screenshot%20(910).png"></code>
-<code><img height= "40" width="50" alt="https://drive.google.com/file/d/1gSL4NbTNS3hWxc9ZPaXvyw7_ytLR0Qxz/view?usp=sharing" src="https://github.com/Ashish2030/Ashish2030/blob/main/image/Screenshot%20(912).png"></code>
-<code><img height= "40" width="40" alt="https://drive.google.com/file/d/1gSL4NbTNS3hWxc9ZPaXvyw7_ytLR0Qxz/view?usp=sharing" src="https://github.com/Ashish2030/Ashish2030/blob/main/Screenshot%20(913).png"></code>
+<code><img height= "50" width="40" alt="https://drive.google.com/file/d/1gSL4NbTNS3hWxc9ZPaXvyw7_ytLR0Qxz/view?usp=sharing" src="https://github.com/Ashish2030/Ashish2030/blob/main/Screenshot%20(913).png"></code>
+<code><img height= "50" width="60" alt="https://user-images.githubusercontent.com/61516051/129794457-603d4d68-af03-45f0-813c-42acc33c7c93.png" src="https://user-images.githubusercontent.com/61516051/129794457-603d4d68-af03-45f0-813c-42acc33c7c93.png"></code>
+<code><img height= "50" width="60" alt="https://drive.google.com/file/d/1rJ9eP4c-XDRoksWoufNOXfScSU1fTER9/view?usp=sharing" src="https://github.com/Ashish2030/Ashish2030/blob/main/image/IMG20191022153127.jpg"></code>
+<code><img height= "50" alt="https://drive.google.com/file/d/1Jx1vmJKlS8-T5n0iK3PZ890rKahnJAKj/view" src="https://github.com/Ashish2030/Ashish2030/blob/main/image/Javascript.jpg"></code>
+<code><img height= "50" alt="certified scrum master" src="https://i.ibb.co/m5RM2Sb/csm.jpg"></code>
+<code><img height= "50" alt="udacity android nanodegree" src="https://i.ibb.co/G355Gq2/udacity.jpg"></code>
+<code><img height= "50" alt="https://drive.google.com/file/d/19og94L55k1UShALl3eeBH9DROXk4gF18/view" src="https://github.com/Ashish2030/Ashish2030/blob/main/image/1623817331886.jfif"></code>
+<code><img height= "50" alt="https://www.hackerrank.com/certificates/e98d57c6e0f5" src="https://github.com/Ashish2030/Ashish2030/blob/main/image/download.png"></code>
+<code><img height= "50" alt="https://drive.google.com/drive/quota" src="https://github.com/Ashish2030/Ashish2030/blob/main/image/web.jpg"></code>
+<code><img height= "50" alt="https://drive.google.com/file/d/1IMkbIbPTysNe63HwR4PvL-I0cOeX4m7a/view" src="https://github.com/Ashish2030/Ashish2030/blob/main/image/Screenshot%20(908).png"></code>
+<code><img height= "50" alt="https://drive.google.com/file/d/1jXBskVYJxuPM4paPqquOSNDwAspSksY_/view?usp=sharing" src="https://github.com/Ashish2030/Ashish2030/blob/main/image/security.png"></code>
+<code><img height= "50" alt="https://drive.google.com/file/d/1gSL4NbTNS3hWxc9ZPaXvyw7_ytLR0Qxz/view?usp=sharing" src="https://github.com/Ashish2030/Ashish2030/blob/main/image/Screenshot%20(909).png"></code>
+<code><img height= "50" alt="https://drive.google.com/file/d/1gSL4NbTNS3hWxc9ZPaXvyw7_ytLR0Qxz/view?usp=sharing" src="https://github.com/Ashish2030/Ashish2030/blob/main/image/Screenshot%20(910).png"></code>
+<code><img height= "50" width="50" alt="https://drive.google.com/file/d/1gSL4NbTNS3hWxc9ZPaXvyw7_ytLR0Qxz/view?usp=sharing" src="https://github.com/Ashish2030/Ashish2030/blob/main/image/Screenshot%20(912).png"></code>
+<code><img height= "50" width="60" alt="https://user-images.githubusercontent.com/61516051/129794594-f06faae9-ab77-4393-bac1-4c6fee6e84f6.png" src="https://user-images.githubusercontent.com/61516051/129794594-f06faae9-ab77-4393-bac1-4c6fee6e84f6.png"></code>
+<code><img height= "50" width="60" alt="https://user-images.githubusercontent.com/61516051/129794872-cc5a2781-9bad-425e-b214-192a057ccc55.png" src="https://user-images.githubusercontent.com/61516051/129794872-cc5a2781-9bad-425e-b214-192a057ccc55.png"></code>
 
 #### Offer Letter(Full Stack Developer)
 	
