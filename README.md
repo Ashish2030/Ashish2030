@@ -411,21 +411,21 @@ CodeSignal              -  [Check out!](https://app.codesignal.com/profile/1075.
 <table>
   <tr>
     <td align="center">
-      <a href="https://drive.google.com/file/d/1Q36qIT_skIATmSdR2OAtcqoi_f1_1eyG/view?usp=sharing">
+      <a href="https://user-images.githubusercontent.com/61516051/129687173-c6cba86b-fa43-4ea5-94a1-29492ae4a5b8.png">
         <img src="https://user-images.githubusercontent.com/61516051/129687173-c6cba86b-fa43-4ea5-94a1-29492ae4a5b8.png" width="60px;" alt="SDE Intern"/>
       </a>
       <br />
       <a href="https://www.linkedin.com/company/wollfish-labs-private-limited/">ᴡᴏʟʟꜰɪꜱʜ ʟᴀʙꜱ<br> ᴘʀɪᴠᴀᴛᴇ ʟɪᴍɪᴛᴇᴅ <br>(ɪɴᴛᴇʀɴ)</a>
     </td>
     <td align="center">
-      <a href="https://drive.google.com/file/d/13uqzozGuL8kAUQ8Ilc25gZqGRJsbqZbl/view?usp=sharing">
+      <a href="https://user-images.githubusercontent.com/61516051/129762993-9cb2798b-53c6-437d-8a8c-c7f8342b8137.jpg">
         <img src="https://user-images.githubusercontent.com/61516051/129762993-9cb2798b-53c6-437d-8a8c-c7f8342b8137.jpg"  width="40px;"  alt="SDE Intern"/>
       </a>
       <br />
       <a href="https://www.linkedin.com/company/techsophy/">ᴛᴇᴄʜꜱᴏᴘʜʏ ɪɴɴᴏᴠᴀᴛɪᴏɴꜱ<br> ꜰᴏʀ ᴛʜᴇ ɴᴇᴡ ɴᴏʀᴍᴀʟ<br>(ɪɴᴛᴇʀɴ)</a>
     </td>
 	   <td align="center">
-      <a href="https://drive.google.com/file/d/10m_hKRlsvE05do3Asq7TvD40uC4mLwt0/view?usp=sharing">
+      <a href="https://user-images.githubusercontent.com/61516051/129768162-d3aeaa92-dd35-49f6-b6a9-f3baa199c377.jpg">
         <img src="https://user-images.githubusercontent.com/61516051/129768162-d3aeaa92-dd35-49f6-b6a9-f3baa199c377.jpg" width="50px;" alt="ᴛᴇᴀᴄʜɪɴɢ ᴀꜱꜱɪꜱᴛᴀɴᴛ"/>
       </a>
       <br />
