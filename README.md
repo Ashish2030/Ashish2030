@@ -424,7 +424,14 @@ CodeSignal              -  [Check out!](https://app.codesignal.com/profile/1075.
       <br />
       <a href="https://www.linkedin.com/company/techsophy/">ᴛᴇᴄʜꜱᴏᴘʜʏ ɪɴɴᴏᴠᴀᴛɪᴏɴꜱ<br> ꜰᴏʀ ᴛʜᴇ ɴᴇᴡ ɴᴏʀᴍᴀʟ<br>(ɪɴᴛᴇʀɴ)</a>
     </td>
-	</tr>
+	   <td align="center">
+      <a href="https://drive.google.com/file/d/13uqzozGuL8kAUQ8Ilc25gZqGRJsbqZbl/view?usp=sharing">
+        <img src="https://user-images.githubusercontent.com/61516051/129762993-9cb2798b-53c6-437d-8a8c-c7f8342b8137.jpg" width="40px;" alt="SDE Intern"/>
+      </a>
+      <br />
+      <a href="https://www.linkedin.com/company/ueducation/">ᴜᴘɢʀᴀᴅᴇᴋʏᴀ ᴅᴇɢʀᴇᴇ ᴍɪʟᴇɢɪ?<br>#ᴜᴘɢʀᴀᴅʙᴀᴄʜᴇʟᴏʀᴅᴇɢʀᴇᴇꜱ<br>(ɪɴᴛᴇʀɴ)</a>
+    </td>
+</tr>
 
 </table>
 
