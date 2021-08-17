@@ -391,23 +391,119 @@ CodeSignal              -  [Check out!](https://app.codesignal.com/profile/1075.
 
 
 #### Certifications
-	
-<code><img height= "50" width="40" alt="https://drive.google.com/file/d/1gSL4NbTNS3hWxc9ZPaXvyw7_ytLR0Qxz/view?usp=sharing" src="https://github.com/Ashish2030/Ashish2030/blob/main/Screenshot%20(913).png"></code>
-<code><img height= "50" width="60" alt="https://user-images.githubusercontent.com/61516051/129794457-603d4d68-af03-45f0-813c-42acc33c7c93.png" src="https://user-images.githubusercontent.com/61516051/129794457-603d4d68-af03-45f0-813c-42acc33c7c93.png"></code>
-<code><img height= "50" width="60" alt="https://drive.google.com/file/d/1rJ9eP4c-XDRoksWoufNOXfScSU1fTER9/view?usp=sharing" src="https://github.com/Ashish2030/Ashish2030/blob/main/image/IMG20191022153127.jpg"></code>
-<code><img height= "50" alt="https://drive.google.com/file/d/1Jx1vmJKlS8-T5n0iK3PZ890rKahnJAKj/view" src="https://github.com/Ashish2030/Ashish2030/blob/main/image/Javascript.jpg"></code>
-<code><img height= "50" alt="certified scrum master" src="https://i.ibb.co/m5RM2Sb/csm.jpg"></code>
-<code><img height= "50" alt="udacity android nanodegree" src="https://i.ibb.co/G355Gq2/udacity.jpg"></code>
-<code><img height= "50" alt="https://drive.google.com/file/d/19og94L55k1UShALl3eeBH9DROXk4gF18/view" src="https://github.com/Ashish2030/Ashish2030/blob/main/image/1623817331886.jfif"></code>
-<code><img height= "50" alt="https://www.hackerrank.com/certificates/e98d57c6e0f5" src="https://github.com/Ashish2030/Ashish2030/blob/main/image/download.png"></code>
-<code><img height= "50" alt="https://drive.google.com/drive/quota" src="https://github.com/Ashish2030/Ashish2030/blob/main/image/web.jpg"></code>
-<code><img height= "50" alt="https://drive.google.com/file/d/1IMkbIbPTysNe63HwR4PvL-I0cOeX4m7a/view" src="https://github.com/Ashish2030/Ashish2030/blob/main/image/Screenshot%20(908).png"></code>
-<code><img height= "50" alt="https://drive.google.com/file/d/1jXBskVYJxuPM4paPqquOSNDwAspSksY_/view?usp=sharing" src="https://github.com/Ashish2030/Ashish2030/blob/main/image/security.png"></code>
-<code><img height= "50" alt="https://drive.google.com/file/d/1gSL4NbTNS3hWxc9ZPaXvyw7_ytLR0Qxz/view?usp=sharing" src="https://github.com/Ashish2030/Ashish2030/blob/main/image/Screenshot%20(909).png"></code>
-<code><img height= "50" alt="https://drive.google.com/file/d/1gSL4NbTNS3hWxc9ZPaXvyw7_ytLR0Qxz/view?usp=sharing" src="https://github.com/Ashish2030/Ashish2030/blob/main/image/Screenshot%20(910).png"></code>
-<code><img height= "50" width="50" alt="https://drive.google.com/file/d/1gSL4NbTNS3hWxc9ZPaXvyw7_ytLR0Qxz/view?usp=sharing" src="https://github.com/Ashish2030/Ashish2030/blob/main/image/Screenshot%20(912).png"></code>
-<code><img height= "50" width="60" alt="https://user-images.githubusercontent.com/61516051/129794594-f06faae9-ab77-4393-bac1-4c6fee6e84f6.png" src="https://user-images.githubusercontent.com/61516051/129794594-f06faae9-ab77-4393-bac1-4c6fee6e84f6.png"></code>
-<code><img height= "50" width="60" alt="https://user-images.githubusercontent.com/61516051/129794872-cc5a2781-9bad-425e-b214-192a057ccc55.png" src="https://user-images.githubusercontent.com/61516051/129794872-cc5a2781-9bad-425e-b214-192a057ccc55.png"></code>
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://drive.google.com/file/d/1gSL4NbTNS3hWxc9ZPaXvyw7_ytLR0Qxz/view?usp=sharing">
+        <img src="https://github.com/Ashish2030/Ashish2030/blob/main/image/Screenshot%20(909).png" width="90px;" alt="Riya-Panhotra"/>
+      </a>
+      <br />
+      <a href="https://github.com/Riya-Panhotra">Riya Panhotra</a>
+    </td>
+    <td align="center">
+      <a href="https://drive.google.com/file/d/1jXBskVYJxuPM4paPqquOSNDwAspSksY_/view?usp=sharing">
+        <img src="https://github.com/Ashish2030/Ashish2030/blob/main/image/security.png" width="90px;" alt="spandey1296"/>
+      </a>
+      <br />
+      <a href="https://github.com/spandey1296">Shivant Pandey</a>
+    </td>
+    <td align="center">
+      <a href="https://drive.google.com/file/d/1IMkbIbPTysNe63HwR4PvL-I0cOeX4m7a/view">
+        <img src="https://github.com/Ashish2030/Ashish2030/blob/main/image/Screenshot%20(908).png" width="90px;" alt="Sanskar49"/>
+      </a>
+      <br />
+      <a href="https://github.com/Sanskar49">Sanskar49</a>
+    </td>
+    <td align="center">
+      <a href="https://www.hackerrank.com/certificates/e98d57c6e0f5">
+        <img src="https://github.com/Ashish2030/Ashish2030/blob/main/image/download.png" width="90px;" alt="AdityaTohan"/>
+      </a>
+      <br />
+      <a href="https://github.com/AdityaTohan">AdityaTohan</a>
+    </td>
+
+<td align="center">
+      <a href="https://drive.google.com/file/d/1Jx1vmJKlS8-T5n0iK3PZ890rKahnJAKj/view">
+        <img src="https://github.com/Ashish2030/Ashish2030/blob/main/image/Javascript.jpg" width="90px;" alt="aryan31200"/>
+      </a>
+      <br />
+      <a href="https://github.com/aryan31200">aryan31200</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/nehasoni05">
+        <img src="https://github.com/Ashish2030/Ashish2030/blob/main/image/web.jpg" width="90px;" alt="nehasoni05"/>
+      </a>
+      <br />
+      <a href="https://github.com/nehasoni05">nehasoni05</a>
+    </td>
+    <td align="center">
+      <a href="https://user-images.githubusercontent.com/61516051/129794594-f06faae9-ab77-4393-bac1-4c6fee6e84f6.png">
+        <img src="https://user-images.githubusercontent.com/61516051/129794594-f06faae9-ab77-4393-bac1-4c6fee6e84f6.png" width="90px;" alt="Akshima-Ghai"/>
+      </a>
+      <br />
+      <a href="https://github.com/Akshima-Ghai">Akshima-Ghai</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://drive.google.com/file/d/1gSL4NbTNS3hWxc9ZPaXvyw7_ytLR0Qxz/view?usp=sharing">
+        <img src="https://github.com/Ashish2030/Ashish2030/blob/main/image/Screenshot%20(912).png" width="90px;" alt="shagun25"/>
+      </a>
+      <br />
+      <a href="https://github.com/shagun25">shagun25</a>
+    </td>
+    <td align="center">
+      <a href="https://drive.google.com/file/d/19og94L55k1UShALl3eeBH9DROXk4gF18/view">
+        <img src="https://github.com/Ashish2030/Ashish2030/blob/main/image/1623817331886.jfif" width="90px;" alt="Khushboog24"/>
+      </a>
+      <br />
+      <a href="https://github.com/Khushboog24">Khushboog24</a>
+    </td>
+    <td align="center">
+      <a href="https://user-images.githubusercontent.com/61516051/129794872-cc5a2781-9bad-425e-b214-192a057ccc55.png">
+        <img src="https://user-images.githubusercontent.com/61516051/129794872-cc5a2781-9bad-425e-b214-192a057ccc55.png" width="90px;" alt="ruchi2c"/>
+      </a>
+      <br />
+      <a href="https://github.com/ruchi2ch">ruchi2c</a>
+    </td>
+<td align="center">
+      <a href="https://drive.google.com/file/d/1gSL4NbTNS3hWxc9ZPaXvyw7_ytLR0Qxz/view?usp=sharing">
+        <img src="https://i.ibb.co/G355Gq2/udacity.jpg" width="90px;" alt="Narayan890"/>
+      </a>
+      <br />
+      <a href="https://github.com/Narayan890">Narayan890</a>
+    </td>  
+    <td align="center">
+      <a href="https://drive.google.com/file/d/1rJ9eP4c-XDRoksWoufNOXfScSU1fTER9/view?usp=sharing">
+        <img src="https://github.com/Ashish2030/Ashish2030/blob/main/image/IMG20191022153127.jpg" width="90px;" alt="arushimittal1431"/>
+      </a>
+      <br />
+      <a href="https://github.com/arushimittal1431">arushimittal1431</a>
+    </td>
+    <td align="center">
+      <a href="https://user-images.githubusercontent.com/61516051/129794457-603d4d68-af03-45f0-813c-42acc33c7c93.png">
+        <img src="https://user-images.githubusercontent.com/61516051/129794457-603d4d68-af03-45f0-813c-42acc33c7c93.png" width="90px;" alt="abarrosm"/>
+      </a>
+      <br />
+      <a href="https://github.com/abarrosm">abarrosm</a>
+    </td>
+    <td align="center">
+      <a href="https://drive.google.com/file/d/1gSL4NbTNS3hWxc9ZPaXvyw7_ytLR0Qxz/view?usp=sharing">
+        <img src="https://github.com/Ashish2030/Ashish2030/blob/main/Screenshot%20(913).png" width="90px;" alt="hiiamdilip"/>
+      </a>
+      <br />
+      <a href="https://github.com/hiiamdilip">abhi36rai</a>
+    </td>
+  </tr>
+</table>
+
+
+
+
+
+
+
 
 #### Offer Letter(Full Stack Developer)
 	
@@ -415,21 +511,21 @@ CodeSignal              -  [Check out!](https://app.codesignal.com/profile/1075.
   <tr>
     <td align="center">
       <a href="https://user-images.githubusercontent.com/61516051/129687173-c6cba86b-fa43-4ea5-94a1-29492ae4a5b8.png">
-        <img src="https://user-images.githubusercontent.com/61516051/129687173-c6cba86b-fa43-4ea5-94a1-29492ae4a5b8.png" width="60px;" alt="SDE Intern"/>
+        <img src="https://user-images.githubusercontent.com/61516051/129687173-c6cba86b-fa43-4ea5-94a1-29492ae4a5b8.png" width="90px;" alt="SDE Intern"/>
       </a>
       <br />
       <a href="https://www.linkedin.com/company/wollfish-labs-private-limited/">ᴡᴏʟʟꜰɪꜱʜ ʟᴀʙꜱ<br> ᴘʀɪᴠᴀᴛᴇ ʟɪᴍɪᴛᴇᴅ <br>(ɪɴᴛᴇʀɴ)</a>
     </td>
     <td align="center">
       <a href="https://user-images.githubusercontent.com/61516051/129762993-9cb2798b-53c6-437d-8a8c-c7f8342b8137.jpg">
-        <img src="https://user-images.githubusercontent.com/61516051/129762993-9cb2798b-53c6-437d-8a8c-c7f8342b8137.jpg"  width="40px;"  alt="SDE Intern"/>
+        <img src="https://user-images.githubusercontent.com/61516051/129762993-9cb2798b-53c6-437d-8a8c-c7f8342b8137.jpg"  width="90px;"  alt="SDE Intern"/>
       </a>
       <br />
       <a href="https://www.linkedin.com/company/techsophy/">ᴛᴇᴄʜꜱᴏᴘʜʏ ɪɴɴᴏᴠᴀᴛɪᴏɴꜱ<br> ꜰᴏʀ ᴛʜᴇ ɴᴇᴡ ɴᴏʀᴍᴀʟ<br>(ɪɴᴛᴇʀɴ)</a>
     </td>
 	   <td align="center">
       <a href="https://user-images.githubusercontent.com/61516051/129768162-d3aeaa92-dd35-49f6-b6a9-f3baa199c377.jpg">
-        <img src="https://user-images.githubusercontent.com/61516051/129768162-d3aeaa92-dd35-49f6-b6a9-f3baa199c377.jpg" width="50px;" alt="ᴛᴇᴀᴄʜɪɴɢ ᴀꜱꜱɪꜱᴛᴀɴᴛ"/>
+        <img src="https://user-images.githubusercontent.com/61516051/129768162-d3aeaa92-dd35-49f6-b6a9-f3baa199c377.jpg" width="90px;" alt="ᴛᴇᴀᴄʜɪɴɢ ᴀꜱꜱɪꜱᴛᴀɴᴛ"/>
       </a>
       <br />
       <a href="https://www.linkedin.com/company/ueducation/">ᴜᴘɢʀᴀᴅᴇ<br>ᴛᴇᴀᴄʜɪɴɢ ᴀꜱꜱɪꜱᴛᴀɴᴛ<br>(ꜰʀᴇᴇʟᴀɴᴄɪɴɢ)</a>
