@@ -412,11 +412,19 @@ CodeSignal              -  [Check out!](https://app.codesignal.com/profile/1075.
   <tr>
     <td align="center">
       <a href="https://drive.google.com/file/d/1Q36qIT_skIATmSdR2OAtcqoi_f1_1eyG/view?usp=sharing">
-        <img src="https://user-images.githubusercontent.com/61516051/129687173-c6cba86b-fa43-4ea5-94a1-29492ae4a5b8.png" width="50px;" alt="SDE Intern"/>
+        <img src="https://user-images.githubusercontent.com/61516051/129687173-c6cba86b-fa43-4ea5-94a1-29492ae4a5b8.png" width="60px;" alt="SDE Intern"/>
       </a>
       <br />
-      <a href="https://www.linkedin.com/company/wollfish-labs-private-limited/">ᴡᴀʟʟꜰɪꜱʜ(Intern)</a>
+      <a href="https://www.linkedin.com/company/wollfish-labs-private-limited/">ᴡᴏʟʟꜰɪꜱʜ ʟᴀʙꜱ<br> ᴘʀɪᴠᴀᴛᴇ ʟɪᴍɪᴛᴇᴅ <br>(ɪɴᴛᴇʀɴ)</a>
     </td>
+    <td align="center">
+      <a href="https://drive.google.com/file/d/1Q36qIT_skIATmSdR2OAtcqoi_f1_1eyG/view?usp=sharing">
+        <img src="https://user-images.githubusercontent.com/61516051/129687173-c6cba86b-fa43-4ea5-94a1-29492ae4a5b8.png" width="60px;" alt="SDE Intern"/>
+      </a>
+      <br />
+      <a href="https://www.linkedin.com/company/wollfish-labs-private-limited/">ᴛᴇᴄʜꜱᴏᴘʜʏ<br>ɪɴɴᴏᴠᴀᴛɪᴏɴꜱ ꜰᴏʀ ᴛʜᴇ ɴᴇᴡ ɴᴏʀᴍᴀʟ<br>(ɪɴᴛᴇʀɴ)</a>
+    </td>
+	</tr>
 
 </table>
 
