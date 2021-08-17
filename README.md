@@ -422,7 +422,7 @@ CodeSignal              -  [Check out!](https://app.codesignal.com/profile/1075.
         <img src="https://user-images.githubusercontent.com/61516051/129687173-c6cba86b-fa43-4ea5-94a1-29492ae4a5b8.png" width="60px;" alt="SDE Intern"/>
       </a>
       <br />
-      <a href="https://www.linkedin.com/company/wollfish-labs-private-limited/">ᴛᴇᴄʜꜱᴏᴘʜʏ<br>ɪɴɴᴏᴠᴀᴛɪᴏɴꜱ ꜰᴏʀ ᴛʜᴇ ɴᴇᴡ ɴᴏʀᴍᴀʟ<br>(ɪɴᴛᴇʀɴ)</a>
+      <a href="https://www.linkedin.com/company/wollfish-labs-private-limited/">ᴛᴇᴄʜꜱᴏᴘʜʏ<br>(ɪɴᴛᴇʀɴ)</a>
     </td>
 	</tr>
 
