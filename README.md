@@ -407,9 +407,20 @@ CodeSignal              -  [Check out!](https://app.codesignal.com/profile/1075.
 <code><img height= "40" width="40" alt="https://drive.google.com/file/d/1gSL4NbTNS3hWxc9ZPaXvyw7_ytLR0Qxz/view?usp=sharing" src="https://github.com/Ashish2030/Ashish2030/blob/main/Screenshot%20(913).png"></code>
 
 #### Offer Letter
+	
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://drive.google.com/file/d/1Q36qIT_skIATmSdR2OAtcqoi_f1_1eyG/view?usp=sharing">
+        <img src="https://user-images.githubusercontent.com/61516051/129687173-c6cba86b-fa43-4ea5-94a1-29492ae4a5b8.png" width="50px;" alt="Riya-Panhotra"/>
+      </a>
+      <br />
+      <a href="https://drive.google.com/file/d/1Q36qIT_skIATmSdR2OAtcqoi_f1_1eyG/view?usp=sharing">ᴡᴀʟʟꜰɪꜱʜ</a>
+    </td>
 
-<code><img height= "40" width="60" alt="https://drive.google.com/file/d/1Q36qIT_skIATmSdR2OAtcqoi_f1_1eyG/view?usp=sharing" src="https://user-images.githubusercontent.com/61516051/129687173-c6cba86b-fa43-4ea5-94a1-29492ae4a5b8.png"></code>
-<code><img height= "40" alt="https://drive.google.com/file/d/1Jx1vmJKlS8-T5n0iK3PZ890rKahnJAKj/view" src="https://github.com/Ashish2030/Ashish2030/blob/main/image/Javascript.jpg"></code>
+</table>
+
+
 
 
 ### Github Activity ✔:
