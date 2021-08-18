@@ -476,7 +476,7 @@ CodeSignal              -  [Check out!](https://app.codesignal.com/profile/1075.
     </td>  
     <td align="center">
       <a href="https://drive.google.com/file/d/1rJ9eP4c-XDRoksWoufNOXfScSU1fTER9/view?usp=sharing">
-        <img src="https://github.com/Ashish2030/Ashish2030/blob/main/image/IMG20191022153127.jpg" width="90px;" alt="arushimittal1431"/>
+        <img src="https://github.com/Ashish2030/Ashish2030/blob/main/image/IMG20191022153127.jpg"  height="70px" width="90px;" alt="arushimittal1431"/>
       </a>
       <br />
       <a href="https://github.com/arushimittal1431">arushimittal1431</a>
