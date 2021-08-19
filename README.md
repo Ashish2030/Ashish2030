@@ -271,7 +271,7 @@ CodeSignal              -  [Check out!](https://app.codesignal.com/profile/1075.
   </tbody>
   <tbody>
     <tr>
-      <td><b>Teaching Assistan(<a href="https://www.linkedin.com/company/wollfish-labs-private-limited/"> ᴜᴘɢʀᴀᴅ </a>)</b></td>
+      <td><b>Teaching Assistant(<a href="https://www.linkedin.com/company/wollfish-labs-private-limited/"> ᴜᴘɢʀᴀᴅ </a>)</b></td>
       <td>Take Query Of a Students regarding  FOP + Full Stack </td>
       <td>Aug 2021 - Present</td>
     </tr>
