@@ -183,15 +183,10 @@ My website has quite a few of them, here's a list of the public ones:
   </samp>
 </p>
 
-<hr/>	 
-	 
+<hr/>	 	 
 <br/>
 <br/>
 <br/>
-
-
-
-
   
 ### My top 10 technologies--
 
@@ -207,15 +202,10 @@ My website has quite a few of them, here's a list of the public ones:
 
 <table cellpadding="0" cellspacing="0" border="0">
   <tr>
-    <td><p align="left"> <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=ashish2030&theme=onedark"        alt="ashish2030" /></a> </p></td>
-    <td><img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-</td>
+    <td><p align="left"> <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=ashish2030&theme=onedark" alt="ashish2030" /></a> </p></td>
+    <td><img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"></td>
   </tr>
   </table>
-
-
-
-
 
 <details>
 <summary>
@@ -382,7 +372,7 @@ CodeSignal              -  [Check out!](https://app.codesignal.com/profile/1075.
 <td><a href="https://www.youtube.com/watch?v=BVX7kZ4GM-g">Day 1</a><br/>Dec 1, 2020</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=gU7b5Vgnalw"><img width="140px" src="https://i.ytimg.com/vi/gU7b5Vgnalw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=gU7b5Vgnalw">How to Create Custom Snippets for Any Language in VS Code</a><br/>Nov 17, 2020</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=5ecM9n7A_pY"><img width="140px" src="https://i.ytimg.com/vi/5ecM9n7A_pY/mqdefault.jpg"></a></td>
+<tr><td><a href="https://www.youtube.com/watch?v=gRzbYSS7pLQ&t=3s"><img width="140px" src="https://user-images.githubusercontent.com/61516051/130112440-5f64d215-b993-4a58-a9d3-e467eccbebec.png"></a></td>
 <td><a href="https://www.youtube.com/watch?v=5ecM9n7A_pY">How to Type HTML and CSS Faster with Emmet</a><br/>Nov 10, 2020</td></tr>
 <!-- YOUTUBE:END -->
 </tbody>
@@ -505,13 +495,6 @@ CodeSignal              -  [Check out!](https://app.codesignal.com/profile/1075.
   </tr>
 </table>
 
-
-
-
-
-
-
-
 #### Offer Letter
 	
 <table>
@@ -520,28 +503,25 @@ CodeSignal              -  [Check out!](https://app.codesignal.com/profile/1075.
       <a href="https://user-images.githubusercontent.com/61516051/129687173-c6cba86b-fa43-4ea5-94a1-29492ae4a5b8.png">
         <img src="https://user-images.githubusercontent.com/61516051/129687173-c6cba86b-fa43-4ea5-94a1-29492ae4a5b8.png" width="90px;" alt="SDE Intern"/>
       </a>
-      <br />
+      <br/>
       <a href="https://www.linkedin.com/company/wollfish-labs-private-limited/">ᴡᴏʟʟꜰɪꜱʜ ʟᴀʙꜱ<br> ᴘʀɪᴠᴀᴛᴇ ʟɪᴍɪᴛᴇᴅ <br>(ɪɴᴛᴇʀɴ)</a>
     </td>
     <td align="center">
       <a href="https://user-images.githubusercontent.com/61516051/129762993-9cb2798b-53c6-437d-8a8c-c7f8342b8137.jpg">
         <img src="https://user-images.githubusercontent.com/61516051/129762993-9cb2798b-53c6-437d-8a8c-c7f8342b8137.jpg"  height="80px" width="80px;"  alt="SDE Intern"/>
       </a>
-      <br />
+      <br/>
       <a href="https://www.linkedin.com/company/techsophy/">ᴛᴇᴄʜꜱᴏᴘʜʏ ɪɴɴᴏᴠᴀᴛɪᴏɴꜱ<br> ꜰᴏʀ ᴛʜᴇ ɴᴇᴡ ɴᴏʀᴍᴀʟ<br>(ɪɴᴛᴇʀɴ)</a>
     </td>
-	   <td align="center">
+    <td align="center">
       <a href="https://user-images.githubusercontent.com/61516051/129768162-d3aeaa92-dd35-49f6-b6a9-f3baa199c377.jpg">
         <img src="https://user-images.githubusercontent.com/61516051/129768162-d3aeaa92-dd35-49f6-b6a9-f3baa199c377.jpg" width="90px;" alt="ᴛᴇᴀᴄʜɪɴɢ ᴀꜱꜱɪꜱᴛᴀɴᴛ"/>
       </a>
-      <br />
+      <br/>
       <a href="https://www.linkedin.com/company/ueducation/">ᴜᴘɢʀᴀᴅᴇ<br>ᴛᴇᴀᴄʜɪɴɢ ᴀꜱꜱɪꜱᴛᴀɴᴛ<br>(ꜰʀᴇᴇʟᴀɴᴄɪɴɢ)</a>
     </td>
-</tr>
-
+ </tr>
 </table>
-
-
 
 
 ### Github Activity ✔:
