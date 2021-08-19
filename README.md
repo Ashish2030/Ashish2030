@@ -262,6 +262,13 @@ CodeSignal              -  [Check out!](https://app.codesignal.com/profile/1075.
       <th>Duration</th>
     </tr>
   </thead>
+   <tbody>
+    <tr>
+      <td><b>SDE Intern(<a href="https://www.linkedin.com/company/maq-software/"> ᴍᴀQ ꜱᴏꜰᴛᴡᴀʀᴇ </a>)</b></td>
+      <td>Selected as a SDE Intern for 12 month </td>
+      <td>Sep 2021 - Present</td>
+    </tr> 
+  </tbody>
   <tbody>
     <tr>
       <td><b>Teaching Assistant(<a href="https://www.linkedin.com/company/wollfish-labs-private-limited/"> ᴜᴘɢʀᴀᴅ </a>)</b></td>
