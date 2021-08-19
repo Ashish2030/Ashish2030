@@ -364,16 +364,19 @@ CodeSignal              -  [Check out!](https://app.codesignal.com/profile/1075.
 </br>
 <table>
   <tbody>
-<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=13UOcZPwFus"><img width="140px" src="https://user-images.githubusercontent.com/61516051/125929151-569dd320-8e6a-45ab-a55a-dd73f5ea5d17.png"></a></td>
+<!-- YOUTUBE:START -->
+<tr>
+	  <td><a href="https://www.youtube.com/watch?v=13UOcZPwFus"><img width="140px" src="https://user-images.githubusercontent.com/61516051/125929151-569dd320-8e6a-45ab-a55a-dd73f5ea5d17.png"></a></td>
 <td><a href="https://www.youtube.com/watch?v=JdJ2VBbYYTQ"> ✅ 𝗗𝗮𝘆_𝟭 𝗧𝗮𝗴𝗲𝘁 𝗔𝗰𝗵𝗲𝗶𝘃𝗲𝗱🎯 </td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=9RXQmR5IiN4"><img width="140px" src="https://user-images.githubusercontent.com/61516051/125929594-dbf6cabe-61a7-479c-8abf-1e26c3ea1db6.png"></a></td>
+<tr>
+	<td><a href="https://www.youtube.com/watch?v=9RXQmR5IiN4"><img width="140px" src="https://user-images.githubusercontent.com/61516051/125929594-dbf6cabe-61a7-479c-8abf-1e26c3ea1db6.png"></a></td>
 <td><a href="https://www.youtube.com/watch?v=WZNG8UomjSI">✅ 𝗗𝗮𝘆_2 𝗧𝗮𝗴𝗲𝘁 𝗔𝗰𝗵𝗲𝗶𝘃𝗲𝗱🎯</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=LPWocjPFkNs"><img width="140px" src="https://user-images.githubusercontent.com/61516051/125930037-858e5682-0fc4-45fb-871f-06e7ef984af7.png"></a></td>
+<tr>
+	<td><a href="https://www.youtube.com/watch?v=LPWocjPFkNs"><img width="140px" src="https://user-images.githubusercontent.com/61516051/125930037-858e5682-0fc4-45fb-871f-06e7ef984af7.png"></a></td>
 <td><a href="https://www.youtube.com/watch?v=BVX7kZ4GM-g">Day 1</a><br/>Dec 1, 2020</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=gU7b5Vgnalw"><img width="140px" src="https://i.ytimg.com/vi/gU7b5Vgnalw/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=gU7b5Vgnalw">How to Create Custom Snippets for Any Language in VS Code</a><br/>Nov 17, 2020</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=gRzbYSS7pLQ&t=3s"><img width="140px" src="https://user-images.githubusercontent.com/61516051/130112440-5f64d215-b993-4a58-a9d3-e467eccbebec.png"></a></td>
-<td><a href="https://www.youtube.com/watch?v=5ecM9n7A_pY">How to Type HTML and CSS Faster with Emmet</a><br/>Nov 10, 2020</td></tr>
+	<td><a href="https://www.youtube.com/watch?v=gRzbYSS7pLQ&t=3s"><img width="140px" src="https://user-images.githubusercontent.com/61516051/130112440-5f64d215-b993-4a58-a9d3-e467eccbebec.png"></a></td>
+   	<td><a href="https://www.youtube.com/watch?v=gRzbYSS7pLQ&t=3s">Day _2</a><br/>Nov 10, 2020</td></tr>
+	    
 <!-- YOUTUBE:END -->
 </tbody>
   </table>
