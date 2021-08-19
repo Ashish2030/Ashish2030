@@ -505,7 +505,7 @@ CodeSignal              -  [Check out!](https://app.codesignal.com/profile/1075.
 
 
 
-#### Offer Letter(Full Stack Developer)
+#### Offer Letter
 	
 <table>
   <tr>
