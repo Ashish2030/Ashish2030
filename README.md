@@ -265,7 +265,7 @@ CodeSignal              -  [Check out!](https://app.codesignal.com/profile/1075.
    <tbody>
     <tr>
       <td><b>SDE Intern(<a href="https://www.linkedin.com/company/maq-software/"> ᴍᴀQ ꜱᴏꜰᴛᴡᴀʀᴇ </a>)</b></td>
-      <td>Selected as a SDE Intern for 12 month </td>
+      <td>Selected as a Associate Software Engineer  </td>
       <td>Sep 2021 - Present</td>
     </tr> 
   </tbody>
