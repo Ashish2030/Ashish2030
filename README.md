@@ -468,8 +468,8 @@ CodeSignal              -  [Check out!](https://app.codesignal.com/profile/1075.
       <a href="https://github.com/ruchi2ch">ruchi2c</a>
     </td>
 <td align="center">
-      <a href="https://drive.google.com/file/d/1gSL4NbTNS3hWxc9ZPaXvyw7_ytLR0Qxz/view?usp=sharing">
-        <img src="https://i.ibb.co/G355Gq2/udacity.jpg" width="90px;" alt="Narayan890"/>
+      <a href="https://user-images.githubusercontent.com/61516051/130328364-13550625-31c8-414d-ab00-19e19cb5eb61.jpg">
+        <img src="https://user-images.githubusercontent.com/61516051/130328364-13550625-31c8-414d-ab00-19e19cb5eb61.jpg" height="70px" width="90px;" alt="Narayan890"/>
       </a>
       <br />
       <a href="https://github.com/Narayan890">Narayan890</a>
