@@ -498,7 +498,7 @@ CodeSignal              -  [Check out!](https://app.codesignal.com/profile/1075.
   </tr>
 </table>
 
-<!-- #### Offer Letter
+#### Offer Letter
 	
 <table>
   <tr>
@@ -525,7 +525,7 @@ CodeSignal              -  [Check out!](https://app.codesignal.com/profile/1075.
     </td>
  </tr>
 </table>
- -->
+
 
 ### Github Activity ✔:
 
