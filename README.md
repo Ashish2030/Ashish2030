@@ -517,8 +517,8 @@ CodeSignal              -  [Check out!](https://app.codesignal.com/profile/1075.
       <a href="https://www.linkedin.com/company/techsophy/">ᴛᴇᴄʜꜱᴏᴘʜʏ ɪɴɴᴏᴠᴀᴛɪᴏɴꜱ<br> ꜰᴏʀ ᴛʜᴇ ɴᴇᴡ ɴᴏʀᴍᴀʟ<br>(ɪɴᴛᴇʀɴ)</a>
     </td>
     <td align="center">
-      <a href="https://user-images.githubusercontent.com/61516051/129768162-d3aeaa92-dd35-49f6-b6a9-f3baa199c377.jpg">
-        <img src="https://user-images.githubusercontent.com/61516051/129768162-d3aeaa92-dd35-49f6-b6a9-f3baa199c377.jpg" width="90px;" alt="ᴛᴇᴀᴄʜɪɴɢ ᴀꜱꜱɪꜱᴛᴀɴᴛ"/>
+      <a href="https://user-images.githubusercontent.com/61516051/136256740-3ab2f288-dd3c-4960-9870-c91eb58142f5.jpg">
+        <img src="https://user-images.githubusercontent.com/61516051/136256740-3ab2f288-dd3c-4960-9870-c91eb58142f5.jpg" width="90px;" alt="ᴛᴇᴀᴄʜɪɴɢ ᴀꜱꜱɪꜱᴛᴀɴᴛ"/>
       </a>
       <br/>
       <a href="https://www.linkedin.com/company/ueducation/">ᴜᴘɢʀᴀᴅᴇ<br>ᴛᴇᴀᴄʜɪɴɢ ᴀꜱꜱɪꜱᴛᴀɴᴛ<br>(ꜰʀᴇᴇʟᴀɴᴄɪɴɢ)</a>
