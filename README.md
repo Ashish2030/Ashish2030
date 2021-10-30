@@ -530,6 +530,13 @@ CodeSignal              -  [Check out!](https://app.codesignal.com/profile/1075.
       <br/>
       <a href="https://www.linkedin.com/company/ueducation/">MAQ Software <br>(ɪɴᴛᴇʀɴ)</a>
     </td>
+	     <td align="center">
+      <a href="https://user-images.githubusercontent.com/61516051/139523423-d4eff52b-8c96-42c3-b2f6-4c29fa668f00.jpg">
+        <img src="https://user-images.githubusercontent.com/61516051/139523423-d4eff52b-8c96-42c3-b2f6-4c29fa668f00.jpg"  height="110px" width="90px;" alt="SDE Intern"/>
+      </a>
+      <br/>
+      <a href="https://www.planetspark.in/">ᴘʟᴀɴᴇᴛꜱᴘᴀʀᴋ <br>(ꜰᴜʟʟ ꜱᴛᴀᴄᴋ ᴅᴇᴠᴇʟᴏᴘᴇʀ)</a>
+    </td>
  </tr>
 </table>
 
