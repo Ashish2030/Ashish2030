@@ -252,11 +252,18 @@ CodeSignal              -  [Check out!](https://app.codesignal.com/profile/1075.
       <th>Duration</th>
     </tr>
   </thead>
+	   <tbody>
+    <tr>
+      <td><b>SDE 1(<a href="https://www.planetspark.in/"> ᴘʟᴀɴᴇᴛꜱᴘᴀʀᴋ </a>)</b></td>
+      <td>Selected as a Full Stack Developer  </td>
+      <td>Sep 2021 - Present</td>
+    </tr> 
+  </tbody>
    <tbody>
     <tr>
       <td><b>SDE Intern(<a href="https://www.linkedin.com/company/maq-software/"> ᴍᴀQ ꜱᴏꜰᴛᴡᴀʀᴇ </a>)</b></td>
       <td>Selected as a Associate Software Engineer  </td>
-      <td>Sep 2021 - Present</td>
+      <td>Sep 2021 - Oct 2021</td>
     </tr> 
   </tbody>
   <tbody>
